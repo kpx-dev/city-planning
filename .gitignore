@@ -1,0 +1,35 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Node
+node_modules/
+.vite/
+.cache/
+
+# macOS
+.DS_Store
+
+# Build outputs
+web/dist/
+
+# Local env
+.env
+.env.local
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Data caches
+data/raw/
+data/parse_errors.log
+data/geocode_misses.log
+
+# OS
+Thumbs.db
