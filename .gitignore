@@ -27,7 +27,8 @@ web/dist/
 *.swp
 
 # Data caches
-data/raw/
+data/raw/*.pdf
+data/raw/_url_cache.json
 data/parse_errors.log
 data/geocode_misses.log
 

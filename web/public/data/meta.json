@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T22:49:02.546291+00:00",
+  "generated_at": "2026-05-27T22:54:21.479316+00:00",
   "cities": [
     {
       "id": 1,
@@ -10,7 +10,7 @@
   ],
   "counts": {
     "total": 486,
-    "geocoded": 167,
+    "geocoded": 418,
     "by_status": {
       "in_process": 117,
       "approved": 228,

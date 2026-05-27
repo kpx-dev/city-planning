@@ -1,0 +1,219 @@
+[
+  {
+    "url": "https://ggcity.org/city-files/dpuoctober-december2017.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/city-files__dpuoctober-december2017.pdf",
+    "sha256": "206ea7ff3366b92d4afaa0109bdf13367e539742156533f1a7164402e418a497",
+    "size_bytes": 112902
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/commdev/dpu011514.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__commdev__dpu011514.pdf",
+    "sha256": "b9aa95e33003bff806543fde6122cdb317343f05aa8a934b129c9be2bf0d4054",
+    "size_bytes": 264160
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpu041515.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpu041515.pdf",
+    "sha256": "030ce701e896d1eaf41150896d13595ec7778c99c3a938798ca0240bae9777f8",
+    "size_bytes": 296269
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpuapril-june2016.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpuapril-june2016.pdf",
+    "sha256": "fabba3e4149ee2bd6200ccef54f20968d79c973d184df5459f4c35bb7aa7c845",
+    "size_bytes": 74060
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpuapril-june2017.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpuapril-june2017.pdf",
+    "sha256": "0b5f5602444f17d192cd3a19ec7d416c7c8302be57f5a663f4833999c0f2e312",
+    "size_bytes": 116986
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpuapril-june2018.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpuapril-june2018.pdf",
+    "sha256": "ff0b463cbd8dc3821de97422f27db31aca254145a91e77e73773f231f13271a6",
+    "size_bytes": 104679
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpujanuary-march2018.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpujanuary-march2018.pdf",
+    "sha256": "e3fe66dc5c18e6ed725451c76ade1714be893383590bf6aa0a66e484ed025807",
+    "size_bytes": 138292
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpujuly-september2016.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpujuly-september2016.pdf",
+    "sha256": "bf6e91949b5d6b271704fba9c4f84958cb08fbb8e8429941b0f795cf66fe0595",
+    "size_bytes": 25361
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpujuly-september2017.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpujuly-september2017.pdf",
+    "sha256": "2ffa622ae1dbdb37199399d56638cccb322b0237086d53e391b7c5f08518920b",
+    "size_bytes": 106368
+  },
+  {
+    "url": "https://ggcity.org/internet/pdf/planning/dpuoctober-december2016.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/internet__pdf__planning__dpuoctober-december2016.pdf",
+    "sha256": "069257125ef2302db1bdbf7dd5776924e5cb1c69f993463f21d7c28e97406525",
+    "size_bytes": 108123
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2018-11/dpujuly-september2018.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2018-11__dpujuly-september2018.pdf",
+    "sha256": "66e5a36a8d50ffb32f2b16878c59eaf4b4767a3716961c381e118cfbf061ea95",
+    "size_bytes": 110103
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2019-01/dpuoctober-december2018.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2019-01__dpuoctober-december2018.pdf",
+    "sha256": "83faa3fcf131b8f5fbe70dde27f38e202b8fb7526da144198778847486e1237b",
+    "size_bytes": 122298
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2019-04/dpujanuary-march2019.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2019-04__dpujanuary-march2019.pdf",
+    "sha256": "63ab51abfb6097140094c5106324b3c9def9bc709f8a995d249b4899325aac89",
+    "size_bytes": 134668
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2019-08/dpuapril-june2019.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2019-08__dpuapril-june2019.pdf",
+    "sha256": "0fc558092d133ed16c97825bd1b531857a1ccd625d081046aeedc77d744b2edc",
+    "size_bytes": 141018
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2019-10/dpujuly-september2019.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2019-10__dpujuly-september2019.pdf",
+    "sha256": "ec5a6c78ff538613a8a0ed98eb86f02abfdcfc83adcd946dc27260869d255a18",
+    "size_bytes": 147079
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2020-01/dpuoct-december2019.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2020-01__dpuoct-december2019.pdf",
+    "sha256": "cf2537e8e85b9721bf5c44cfab55f8d2a7b612ee103898676a30c592edda1c4b",
+    "size_bytes": 136719
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2020-04/dpujan-mar2020.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2020-04__dpujan-mar2020.pdf",
+    "sha256": "315d8be433927bf784fb432abf386e34f4aa18bf822aecf2dce2059ce979def0",
+    "size_bytes": 146494
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2020-07/dpuapr-jun2020.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2020-07__dpuapr-jun2020.pdf",
+    "sha256": "0a6d4ee5b502cb17c6777c27161ee07a07b98550b29e000f464e3dcc8dbfe2f5",
+    "size_bytes": 126978
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2020-11/dpujul-sep2020.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2020-11__dpujul-sep2020.pdf",
+    "sha256": "8b52049f84530349661bc509d4ee74d6cd72f1b69fcab38c20533df37f526b92",
+    "size_bytes": 137560
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2021-01/dpuoct-dec2020.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2021-01__dpuoct-dec2020.pdf",
+    "sha256": "db910f4dd422df5304e5b4cfe4e6ec15c31221cd8417a471c071ea89a1840f55",
+    "size_bytes": 131267
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2021-05/dpujan-mar2021.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2021-05__dpujan-mar2021.pdf",
+    "sha256": "ff5a926dd1431f1f4aaf08a06dc34a02603e45bb3790869a61be1b0b3d8cc67e",
+    "size_bytes": 25869
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2021-07/dpuapr-jun2021.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2021-07__dpuapr-jun2021.pdf",
+    "sha256": "d44ea6d5d481c341e815b550f2b510c7490dd6364d790ef353d871f0c0b212e3",
+    "size_bytes": 32164
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2021-11/dpu.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2021-11__dpu.pdf",
+    "sha256": "24ffde10eef671f50a7b15e8b07b96e39cc87da92af41a56f5b146f5360cc21d",
+    "size_bytes": 275843
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2021-11/dpujul-sep2021.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2021-11__dpujul-sep2021.pdf",
+    "sha256": "bff7b13382c925ec06d7897834d00c28e7f25e6209cc27bcdda27dd0e18f7b48",
+    "size_bytes": 126703
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2022-02/dpuoct-dec2021.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2022-02__dpuoct-dec2021.pdf",
+    "sha256": "27616c0041d7f0db51f76ae2e5aebb6af85b815b0e0fdefbdcbaf2ab35790f60",
+    "size_bytes": 21325
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2022-04/dpu.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2022-04__dpu.pdf",
+    "sha256": "eea22cb3913ace85bb986a906f5d52c693909c1535e0ea23ac2af8a880762524",
+    "size_bytes": 253158
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2022-04/dpujan-mar2022.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2022-04__dpujan-mar2022.pdf",
+    "sha256": "21b5f81f30baf72fb086b1fca15fd1744b7db7ea1e4ecd29f26ab1c7622f81db",
+    "size_bytes": 140949
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2022-11/dpu.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2022-11__dpu.pdf",
+    "sha256": "845699ed27a37e120c297e83396f696e8d33f17f37c7cd9fdc7b305b9de9183d",
+    "size_bytes": 271514
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/2022-11/dpujul-sep2022.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__2022-11__dpujul-sep2022.pdf",
+    "sha256": "7589df74801af171f64f2a803ae1535d9655c97f0c6c67c87f1be1499d2ebd2e",
+    "size_bytes": 145122
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/q1-2026-finalver2.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__q1-2026-finalver2.pdf",
+    "sha256": "7682f53e1fc7a6b462f314932e2029df07f937162401922ab9bcdb449fea6191",
+    "size_bytes": 234116
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/www/planning/dpujanuary-march2017.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__www__planning__dpujanuary-march2017.pdf",
+    "sha256": "c9f24d0ae44ae0f8c9bea587a9315be368080f3959879c51fb81c78596197d24",
+    "size_bytes": 103300
+  }
+]
