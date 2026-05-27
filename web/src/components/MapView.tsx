@@ -8,6 +8,7 @@ import { ProjectPanel } from "./ProjectPanel";
 interface Props {
   projects: Project[];
   defaultCenter: [number, number];
+  defaultZoom?: number;
 }
 
 const RASTER_STYLE: maplibregl.StyleSpecification = {
@@ -29,7 +30,7 @@ const RASTER_STYLE: maplibregl.StyleSpecification = {
   ],
 };
 
-export function MapView({ projects, defaultCenter }: Props) {
+export function MapView({ projects, defaultCenter, defaultZoom = 11.5 }: Props) {
   const mapContainer = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MlMap | null>(null);
   const markersRef = useRef<Marker[]>([]);
@@ -64,7 +65,7 @@ export function MapView({ projects, defaultCenter }: Props) {
       container: mapContainer.current,
       style: RASTER_STYLE,
       center: defaultCenter,
-      zoom: 11.5,
+      zoom: defaultZoom,
       attributionControl: { compact: true },
     });
     m.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
@@ -128,10 +129,29 @@ export function MapView({ projects, defaultCenter }: Props) {
     }
   }
 
+  function resetView() {
+    const m = mapRef.current;
+    if (!m) return;
+    setSelected(null);
+    m.flyTo({ center: defaultCenter, zoom: defaultZoom, speed: 1.4, essential: true });
+  }
+
   return (
     <div className="relative flex-1 overflow-hidden">
       <div ref={mapContainer} className="absolute inset-0" />
       <ProjectPanel project={selected} onClose={() => setSelected(null)} />
+      <button
+        type="button"
+        onClick={resetView}
+        title="Reset view"
+        aria-label="Reset map view"
+        className="absolute right-2 top-24 z-10 flex h-9 w-9 items-center justify-center rounded-md border border-black/10 bg-white shadow-md transition hover:bg-slate-50 active:scale-95 dark:border-white/10 dark:bg-panel dark:hover:bg-panel/80"
+      >
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+          <path d="M3 12a9 9 0 1 0 3-6.7" />
+          <path d="M3 4v5h5" />
+        </svg>
+      </button>
       <div className="pointer-events-none absolute bottom-2 left-2 rounded-md bg-panel/80 px-2 py-1 text-xs text-muted">
         Showing {geocoded.length.toLocaleString()} of {projects.length.toLocaleString()} projects with coordinates
       </div>
