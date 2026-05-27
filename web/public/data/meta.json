@@ -1,0 +1,312 @@
+{
+  "generated_at": "2026-05-27T22:49:02.546291+00:00",
+  "cities": [
+    {
+      "id": 1,
+      "name": "Garden Grove",
+      "state": "CA",
+      "slug": "garden-grove-ca"
+    }
+  ],
+  "counts": {
+    "total": 486,
+    "geocoded": 167,
+    "by_status": {
+      "in_process": 117,
+      "approved": 228,
+      "withdrawn": 6,
+      "unknown": 122,
+      "completed": 13
+    },
+    "by_year": {
+      "2022": 38,
+      "2021": 37,
+      "2020": 48,
+      "2019": 55,
+      "2018": 63,
+      "2017": 57,
+      "2016": 47
+    }
+  },
+  "sources": [
+    {
+      "id": 1,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/commdev/dpu011514.pdf",
+      "title": "internet__pdf__commdev__dpu011514.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": null
+    },
+    {
+      "id": 2,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpu041515.pdf",
+      "title": "internet__pdf__planning__dpu041515.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": null
+    },
+    {
+      "id": 3,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2021-11/dpu.pdf",
+      "title": "sites__default__files__2021-11__dpu.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": null
+    },
+    {
+      "id": 4,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2022-04/dpu.pdf",
+      "title": "sites__default__files__2022-04__dpu.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": null
+    },
+    {
+      "id": 5,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2022-11/dpu.pdf",
+      "title": "sites__default__files__2022-11__dpu.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": null
+    },
+    {
+      "id": 6,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/www/planning/dpujanuary-march2017.pdf",
+      "title": "sites__default__files__www__planning__dpujanuary-march2017.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2017-03-31"
+    },
+    {
+      "id": 7,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpujanuary-march2018.pdf",
+      "title": "internet__pdf__planning__dpujanuary-march2018.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2018-03-31"
+    },
+    {
+      "id": 8,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2019-04/dpujanuary-march2019.pdf",
+      "title": "sites__default__files__2019-04__dpujanuary-march2019.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2019-03-31"
+    },
+    {
+      "id": 9,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2020-04/dpujan-mar2020.pdf",
+      "title": "sites__default__files__2020-04__dpujan-mar2020.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2020-03-31"
+    },
+    {
+      "id": 10,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2021-05/dpujan-mar2021.pdf",
+      "title": "sites__default__files__2021-05__dpujan-mar2021.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2021-03-31"
+    },
+    {
+      "id": 11,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2022-04/dpujan-mar2022.pdf",
+      "title": "sites__default__files__2022-04__dpujan-mar2022.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2022-03-31"
+    },
+    {
+      "id": 12,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpuapril-june2016.pdf",
+      "title": "internet__pdf__planning__dpuapril-june2016.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2016-06-30"
+    },
+    {
+      "id": 13,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpuapril-june2017.pdf",
+      "title": "internet__pdf__planning__dpuapril-june2017.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2017-06-30"
+    },
+    {
+      "id": 14,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpuapril-june2018.pdf",
+      "title": "internet__pdf__planning__dpuapril-june2018.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2018-06-30"
+    },
+    {
+      "id": 15,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2019-08/dpuapril-june2019.pdf",
+      "title": "sites__default__files__2019-08__dpuapril-june2019.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2019-06-30"
+    },
+    {
+      "id": 16,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2020-07/dpuapr-jun2020.pdf",
+      "title": "sites__default__files__2020-07__dpuapr-jun2020.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2020-06-30"
+    },
+    {
+      "id": 17,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2021-07/dpuapr-jun2021.pdf",
+      "title": "sites__default__files__2021-07__dpuapr-jun2021.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2021-06-30"
+    },
+    {
+      "id": 18,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpujuly-september2016.pdf",
+      "title": "internet__pdf__planning__dpujuly-september2016.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2016-09-30"
+    },
+    {
+      "id": 19,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpujuly-september2017.pdf",
+      "title": "internet__pdf__planning__dpujuly-september2017.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2017-09-30"
+    },
+    {
+      "id": 20,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2018-11/dpujuly-september2018.pdf",
+      "title": "sites__default__files__2018-11__dpujuly-september2018.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2018-09-30"
+    },
+    {
+      "id": 21,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2019-10/dpujuly-september2019.pdf",
+      "title": "sites__default__files__2019-10__dpujuly-september2019.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2019-09-30"
+    },
+    {
+      "id": 22,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2020-11/dpujul-sep2020.pdf",
+      "title": "sites__default__files__2020-11__dpujul-sep2020.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2020-09-30"
+    },
+    {
+      "id": 23,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2021-11/dpujul-sep2021.pdf",
+      "title": "sites__default__files__2021-11__dpujul-sep2021.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2021-09-30"
+    },
+    {
+      "id": 24,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2022-11/dpujul-sep2022.pdf",
+      "title": "sites__default__files__2022-11__dpujul-sep2022.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2022-09-30"
+    },
+    {
+      "id": 25,
+      "city_id": 1,
+      "url": "https://ggcity.org/internet/pdf/planning/dpuoctober-december2016.pdf",
+      "title": "internet__pdf__planning__dpuoctober-december2016.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2016-12-31"
+    },
+    {
+      "id": 26,
+      "city_id": 1,
+      "url": "https://ggcity.org/city-files/dpuoctober-december2017.pdf",
+      "title": "city-files__dpuoctober-december2017.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2017-12-31"
+    },
+    {
+      "id": 27,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2019-01/dpuoctober-december2018.pdf",
+      "title": "sites__default__files__2019-01__dpuoctober-december2018.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2018-12-31"
+    },
+    {
+      "id": 28,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2020-01/dpuoct-december2019.pdf",
+      "title": "sites__default__files__2020-01__dpuoct-december2019.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2019-12-31"
+    },
+    {
+      "id": 29,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2021-01/dpuoct-dec2020.pdf",
+      "title": "sites__default__files__2021-01__dpuoct-dec2020.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2020-12-31"
+    },
+    {
+      "id": 30,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/2022-02/dpuoct-dec2021.pdf",
+      "title": "sites__default__files__2022-02__dpuoct-dec2021.pdf",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": "2021-12-31"
+    },
+    {
+      "id": 31,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/q1-2026-finalver2.pdf",
+      "title": "sites__default__files__q1-2026-finalver2.pdf",
+      "report_period_start": "April 2024",
+      "report_period_end": "March 2026",
+      "published_date": "March 2026"
+    }
+  ]
+}
