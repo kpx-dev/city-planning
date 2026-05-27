@@ -73,8 +73,15 @@ def main() -> int:
         st = p.get("status") or "unknown"
         counts["by_status"][st] = counts["by_status"].get(st, 0) + 1
         ld = p.get("last_seen_date") or ""
+        yr = None
         if len(ld) >= 4 and ld[:4].isdigit():
             yr = ld[:4]
+        else:
+            import re as _re
+            m = _re.search(r"\b(20\d{2})\b", ld)
+            if m:
+                yr = m.group(1)
+        if yr:
             counts["by_year"][yr] = counts["by_year"].get(yr, 0) + 1
 
     meta = {

@@ -47,7 +47,8 @@ export default function App() {
     const ys = new Set<string>();
     for (const p of cityProjects) {
       const d = p.last_seen_date || "";
-      if (d.length >= 4 && /^\d{4}/.test(d)) ys.add(d.slice(0, 4));
+      const m = d.match(/\b(20\d{2})\b/);
+      if (m) ys.add(m[1]);
     }
     return Array.from(ys).sort().reverse();
   }, [cityProjects]);
@@ -62,7 +63,7 @@ export default function App() {
     const q = filters.q.trim().toLowerCase();
     return cityProjects.filter((p) => {
       if (filters.status !== "all" && p.status !== filters.status) return false;
-      if (filters.year && !(p.last_seen_date || "").startsWith(filters.year)) return false;
+      if (filters.year && !(p.last_seen_date || "").includes(filters.year)) return false;
       if (filters.hearingBody && p.hearing_body !== filters.hearingBody) return false;
       if (q) {
         const hay = `${p.case_number} ${p.address} ${p.description} ${p.applicant_name}`.toLowerCase();
