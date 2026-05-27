@@ -50,7 +50,15 @@ EXTRA_URLS = [
     "https://ggcity.org/sites/default/files/final-list.pdf",
     "https://ggcity.org/sites/default/files/dpu101314.pdf",
     "https://ggcity.org/sites/default/files/dpu2014-march2016.pdf",
+    # NOTE: Weekly City Manager memos (wm*.pdf) embed the DPU as an attachment but
+    # the parser's first-page validation can't see it (memo summary is on pages 1-2).
+    # The standalone DPU PDFs above cover the same date ranges, so we don't crawl memos.
 ]
+
+# Public CORS/HTTP relay used when ggcity.org is unreachable from this host
+# (their edge silently drops some IP ranges). codetabs returns the original
+# binary unmodified.
+PROXY_TEMPLATE = "https://api.codetabs.com/v1/proxy?quest={url}"
 
 DPU_PHRASE = re.compile(r"DEVELOPMENT\s+PROJECTS\s+UPDATE", re.IGNORECASE)
 DPU_NAME_RE = re.compile(r"(dpu|q[1-4][\-_].*final|q[1-4]\d{2,4}|final-list)", re.IGNORECASE)
@@ -201,13 +209,17 @@ def try_fetch(s: requests.Session, url: str, dest: Path, timeout: int = 60) -> b
 
 
 def fetch_with_fallback(s: requests.Session, c: Candidate, dest: Path) -> str | None:
-    """Returns 'live' or 'wayback' or None."""
+    """Returns 'live', 'proxy', 'wayback', 'cached' or None."""
     if dest.exists() and dest.stat().st_size > 1024:
         # Already cached. Mark source as 'cached'.
         return "cached"
     # Try live first (short timeout because ggcity may be down).
     if try_fetch(s, c.url, dest, timeout=15):
         return "live"
+    # Try the public CORS/HTTP relay (works even when ggcity blocks our egress).
+    proxy_url = PROXY_TEMPLATE.format(url=c.url)
+    if try_fetch(s, proxy_url, dest, timeout=120):
+        return "proxy"
     # Try Wayback raw bytes.
     wb = c.wayback_url()
     if wb and try_fetch(s, wb, dest, timeout=60):

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T22:54:21.479316+00:00",
+  "generated_at": "2026-05-27T23:51:40.461413+00:00",
   "cities": [
     {
       "id": 1,
@@ -9,13 +9,13 @@
     }
   ],
   "counts": {
-    "total": 486,
-    "geocoded": 418,
+    "total": 856,
+    "geocoded": 703,
     "by_status": {
-      "in_process": 117,
-      "approved": 228,
-      "withdrawn": 6,
-      "unknown": 122,
+      "in_process": 128,
+      "approved": 352,
+      "withdrawn": 3,
+      "unknown": 360,
       "completed": 13
     },
     "by_year": {
@@ -307,6 +307,42 @@
       "report_period_start": "April 2024",
       "report_period_end": "March 2026",
       "published_date": "March 2026"
+    },
+    {
+      "id": 32,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/q4-final.pdf",
+      "title": "sites__default__files__q4-final.pdf",
+      "report_period_start": "January 2024",
+      "report_period_end": "December 2025",
+      "published_date": "December 2025"
+    },
+    {
+      "id": 33,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/final-list.pdf",
+      "title": "sites__default__files__final-list.pdf",
+      "report_period_start": "July 2022",
+      "report_period_end": "June 2024",
+      "published_date": "June 2024"
+    },
+    {
+      "id": 34,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/q1-2026-final.pdf",
+      "title": "sites__default__files__q1-2026-final.pdf",
+      "report_period_start": "April 2024",
+      "report_period_end": "March 2026",
+      "published_date": "March 2026"
+    },
+    {
+      "id": 35,
+      "city_id": 1,
+      "url": "https://ggcity.org/sites/default/files/q3-final-draft.pdf",
+      "title": "sites__default__files__q3-final-draft.pdf",
+      "report_period_start": "October 2023",
+      "report_period_end": "September 2025",
+      "published_date": "September 2025"
     }
   ]
 }

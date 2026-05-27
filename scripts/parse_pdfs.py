@@ -96,7 +96,7 @@ class ParsedDoc:
 
 def detect_layout(text: str) -> str:
     up = text.upper()
-    if "PROJECT ADDRESSES" in up and "HEARING BODY" in up:
+    if "HEARING BODY" in up and ("PROJECT ADDRESSES" in up or "PROJECT ADDRESS" in up or " ADDRESS " in up):
         return LAYOUT_MODERN
     if "DECISION" in up and "BODY" in up and ("CEQA" in up or "PROPERTY OWNER" in up):
         return LAYOUT_LEGACY
@@ -193,16 +193,25 @@ def parse_with_extract_tables(pdf, layout: str) -> list[Row]:
                     col_idx["owner"] = i
                 if hu == "STATUS" or " STATUS" in hu:
                     col_idx["status"] = i
-            if "case" not in col_idx and not has_header_row:
-                # If there's no header row and we don't know columns, skip.
-                continue
 
-            # Default column orders if header row missing (continuation tables).
+            # Default column orders if header row missing (per-project tables
+            # in the modern layout, or continuation tables).
             if not has_header_row:
                 if layout == LAYOUT_MODERN:
                     col_idx = {"case": 0, "address": 1, "description": 3, "applicant": 5, "planner": 6, "district": 7, "hearing_body": 8}
                 elif layout == LAYOUT_LEGACY:
                     col_idx = {"case": 0, "address": 1, "description": 2, "zone": 3, "applicant": 4, "owner": 5, "hearing_body": 6, "planner": 7}
+
+            if "case" not in col_idx:
+                # No way to identify the case column for this table; skip.
+                continue
+
+            # Plain "ADDRESS" header (some 2024 DPUs use this) -- treat as address.
+            if "address" not in col_idx:
+                for i, h in enumerate(header):
+                    if h.upper().strip() == "ADDRESS":
+                        col_idx["address"] = i
+                        break
 
             for r in data_rows:
                 if not r:

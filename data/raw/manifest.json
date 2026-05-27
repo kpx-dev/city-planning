@@ -203,11 +203,39 @@
     "size_bytes": 145122
   },
   {
+    "url": "https://ggcity.org/sites/default/files/final-list.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__final-list.pdf",
+    "sha256": "e3ad20abfc06fd34db13102de1336a2dbc9d981f2b549e7125bc2d17c3c64d52",
+    "size_bytes": 438999
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/q1-2026-final.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__q1-2026-final.pdf",
+    "sha256": "bcc90317938f1037dc38a08625f568016d9982c03ebb03b1128273a6e2f790e4",
+    "size_bytes": 276614
+  },
+  {
     "url": "https://ggcity.org/sites/default/files/q1-2026-finalver2.pdf",
     "fetched_via": "cached",
     "local_path": "data/raw/sites__default__files__q1-2026-finalver2.pdf",
     "sha256": "7682f53e1fc7a6b462f314932e2029df07f937162401922ab9bcdb449fea6191",
     "size_bytes": 234116
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/q3-final-draft.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__q3-final-draft.pdf",
+    "sha256": "2835bcb4e776dcf6e0d1efae04532fe90ac478312030e161d598aedb6a38625b",
+    "size_bytes": 302654
+  },
+  {
+    "url": "https://ggcity.org/sites/default/files/q4-final.pdf",
+    "fetched_via": "cached",
+    "local_path": "data/raw/sites__default__files__q4-final.pdf",
+    "sha256": "3148b97f106fe61c8eb2ee3213d6964b46cf34949feedf500d03f7d7b80a998b",
+    "size_bytes": 228060
   },
   {
     "url": "https://ggcity.org/sites/default/files/www/planning/dpujanuary-march2017.pdf",
