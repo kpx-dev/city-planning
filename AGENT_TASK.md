@@ -124,4 +124,60 @@ Working directory: `/Users/kien/kp/city-planning` (already a git repo, branch `m
 - [ ] All work committed and pushed to `origin/main`.
 
 ## NOTES (back-channel to the spawning agent)
-Add a NOTES section here if you have questions/blockers; the parent will read it.
+
+**Status: DONE.** Live at https://kpx-dev.github.io/city-planning/
+
+### Final stats
+- **31** historical DPU PDFs cached (2014 -> Q1 2026)
+- **744** raw rows parsed across three layout generations
+- **486** unique projects after dedup `(city, case_number, address)`
+- **418 / 486 = 86.0%** geocoded (well above the 60% bar)
+- Build: 1.0 MB JS bundle (gzipped 280 KB), 80 KB CSS
+- `data/city-planning.sqlite` is **528 KB** -- committed to git
+- `web/public/data/projects.json` is **0.56 MB** -- committed
+- GitHub Actions deploy runs **35-60s** end-to-end
+
+### Gotchas / things future-me should know
+
+1. **ggcity.org was offline** during this session -- direct curls all timed
+   out with ECONNREFUSED. The scraper falls back to Wayback Machine `id_/`
+   URLs (raw original bytes). Discovery uses the CDX API on prefix patterns.
+   When the site comes back, the scraper prefers live URLs first.
+
+2. **Three PDF layouts**, detected by `detect_layout()` from first-page text:
+   - **modern** (2019+): visible borders -> `pdfplumber.extract_tables()`
+   - **legacy** (2014-16): visible borders -> same path
+   - **mid** (2017-18): no borders -> position-based via x-coordinate bands
+     extracted from header words. Header detection combines adjacent y-lines
+     within 12pt because old PDFs split "SITE ADDRESS / AND LOCATION" across
+     three baselines.
+
+3. **Geocoder false positives**: Nominatim happily returns "Garden Grove
+   Boulevard, Columbus, OH" for some addresses without a clear locality.
+   Sanity bounds-check (33.5-34.1 N, -118.3 to -117.5 W) rejects these and
+   marks them as `out_of_area` in `geocode_cache`. Misses logged to
+   `data/geocode_misses.log`.
+
+4. **Status normalization**: 2017-18 PDFs use a numeric legend (1-9) at the
+   bottom; this is mapped via `STATUS_LEGEND_MID`. Modern PDFs use section
+   headers like "IN PROCESS IN PLANNING DIVISION" -- these populate `section`
+   and the normalizer infers status from keywords.
+
+5. **Repo was made public** via `gh repo edit --visibility public` (Pages on
+   private requires Pro). User explicitly authorized this in spec.
+
+6. **CI does not run the pipeline.** The DB and JSON exports are committed,
+   so the workflow only does `npm ci && npm run build` + `deploy-pages`.
+   Refresh data locally with `make refresh`.
+
+7. Raw PDFs (`data/raw/*.pdf`) are gitignored. `manifest.json` is committed
+   so the next agent can reproduce downloads.
+
+### Manual steps still required
+None. The site is live, the workflow auto-deploys on push to `main`.
+
+### If something breaks
+- Re-run the pipeline: `make refresh`
+- If ggcity.org is back up, the scraper will pull fresh PDFs automatically
+- New quarterly DPU? Add the URL to `EXTRA_URLS` in `scripts/scrape_pdfs.py`
+  if it's not yet on Wayback.
