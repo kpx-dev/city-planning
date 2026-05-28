@@ -35,7 +35,21 @@ UA = "city-planning-explorer/0.1 (https://github.com/kpx-dev/city-planning; kien
 NOMINATIM = "https://nominatim.openstreetmap.org/search"
 RATE_DELAY = 1.05
 
-CITY_BOUNDS = "33.7, -118.05, 33.83, -117.85"  # Garden Grove area, S,W,N,E
+# Per-city configuration: bounding box (south, west, north, east) and the
+# city/state suffix to append for geocoding queries.
+CITY_CONFIG: dict[str, dict] = {
+    "garden-grove-ca": {
+        "suffix": "Garden Grove, CA",
+        "bounds": (33.70, -118.05, 33.83, -117.85),
+        "name_lower": "garden grove",
+    },
+    "santa-ana-ca": {
+        "suffix": "Santa Ana, CA",
+        "bounds": (33.65, -117.97, 33.79, -117.78),
+        "name_lower": "santa ana",
+    },
+}
+DEFAULT_CITY = "garden-grove-ca"
 
 ADDR_PREFIXES = re.compile(
     r"^(?:northeast|northwest|southeast|southwest|north|south|east|west)?\s*"
@@ -48,10 +62,14 @@ NUM_STREET = re.compile(r"\b(\d{1,6}[A-Za-z]?)\s+([A-Za-z][A-Za-z0-9.\s]+?(?:\s+
 )
 
 
-def normalize_for_geocode(raw: str) -> tuple[str, str | None]:
+def normalize_for_geocode(raw: str, city_slug: str = DEFAULT_CITY) -> tuple[str, str | None]:
     """Returns (primary_query, fallback_query). Both include city/state."""
     if not raw:
         return ("", None)
+    cfg = CITY_CONFIG.get(city_slug, CITY_CONFIG[DEFAULT_CITY])
+    suffix = cfg["suffix"]
+    name_lower = cfg["name_lower"]
+
     s = re.sub(r"\s+", " ", raw).strip().rstrip(".,")
 
     # If text mentions "at <num street>", prefer that.
@@ -64,10 +82,10 @@ def normalize_for_geocode(raw: str) -> tuple[str, str | None]:
     fallback = None
     m = NUM_STREET.search(s)
     if m:
-        fallback = f"{m.group(1)} {m.group(2).strip()}, Garden Grove, CA"
+        fallback = f"{m.group(1)} {m.group(2).strip()}, {suffix}"
 
-    if "garden grove" not in s.lower():
-        primary = f"{s}, Garden Grove, CA"
+    if name_lower not in s.lower():
+        primary = f"{s}, {suffix}"
     else:
         primary = s
     return (primary, fallback if fallback != primary else None)
@@ -169,9 +187,10 @@ def main() -> int:
     s.headers.update({"User-Agent": UA, "Accept-Language": "en"})
 
     cur = con.execute(
-        """SELECT id, address FROM projects
-           WHERE (latitude IS NULL OR longitude IS NULL)
-           AND COALESCE(address, '') <> ''"""
+        """SELECT p.id, p.address, c.slug FROM projects p
+           JOIN cities c ON c.id = p.city_id
+           WHERE (p.latitude IS NULL OR p.longitude IS NULL)
+           AND COALESCE(p.address, '') <> ''"""
     )
     rows = cur.fetchall()
     logger.info("Need geocoding for %d projects", len(rows))
@@ -181,8 +200,8 @@ def main() -> int:
     miss = 0
     cached = 0
 
-    for pid, raw in rows:
-        primary, fallback = normalize_for_geocode(raw)
+    for pid, raw, city_slug in rows:
+        primary, fallback = normalize_for_geocode(raw, city_slug)
         if not primary:
             misses.append(raw)
             miss += 1
@@ -208,8 +227,11 @@ def main() -> int:
             try:
                 lat = float(result["lat"])
                 lon = float(result["lon"])
-                # Sanity-check we are roughly in Orange County / Garden Grove area.
-                if not (33.5 < lat < 34.1 and -118.3 < lon < -117.5):
+                # Per-city sanity bounds, with a small buffer.
+                cfg = CITY_CONFIG.get(city_slug, CITY_CONFIG[DEFAULT_CITY])
+                south, west, north, east = cfg["bounds"]
+                buf = 0.06
+                if not (south - buf < lat < north + buf and west - buf < lon < east + buf):
                     logger.info("OUT-OF-AREA %r -> %s,%s display=%s", raw, lat, lon, result.get("display_name"))
                     cache_put(con, raw, used_query, None, None, result.get("display_name"), "out_of_area")
                     misses.append(raw)
