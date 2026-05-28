@@ -29,6 +29,8 @@ web/dist/
 # Data caches
 data/raw/*.pdf
 data/raw/_url_cache.json
+data/raw/santaana/*.pdf
+data/raw/santaana/*.html
 data/parse_errors.log
 data/geocode_misses.log
 

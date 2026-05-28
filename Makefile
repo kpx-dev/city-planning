@@ -1,4 +1,5 @@
-.PHONY: setup scrape parse load geocode export refresh dev build deploy clean
+.PHONY: setup scrape parse load geocode export refresh dev build deploy clean \
+        scrape-santaana parse-santaana load-santaana
 
 PYTHON := .venv/bin/python
 PIP := .venv/bin/pip
@@ -18,13 +19,22 @@ parse:
 load:
 	$(PYTHON) scripts/load_db.py
 
+scrape-santaana:
+	$(PYTHON) scripts/santaana_scraper.py
+
+parse-santaana:
+	$(PYTHON) scripts/santaana_parser.py
+
+load-santaana:
+	$(PYTHON) scripts/load_db_santaana.py
+
 geocode:
 	$(PYTHON) scripts/geocode.py
 
 export:
 	$(PYTHON) scripts/build_export.py
 
-refresh: scrape parse load geocode export
+refresh: scrape parse load scrape-santaana parse-santaana load-santaana geocode export
 
 dev:
 	cd web && npm run dev

@@ -1,40 +1,52 @@
 # City Planning Explorer
 
-Open-data map and table for civic development projects, starting with the
-City of **Garden Grove, CA**. The pipeline scrapes the city's quarterly
-*Development Projects Update List* (DPU) PDFs going back ~10 years, parses
-them into structured rows, geocodes the addresses, and serves the result as
-a static React/MapLibre web app on GitHub Pages.
+Open-data map and table for civic development projects across multiple
+cities. The pipeline scrapes each city's published development project
+records, parses them into structured rows, geocodes the addresses, and
+serves the result as a static React/MapLibre web app on GitHub Pages.
 
 **Live site:** https://kpx-dev.github.io/city-planning/
+
+### Cities covered
+
+| City | Source | Coverage | Projects |
+|------|--------|----------|----------|
+| Garden Grove, CA | Quarterly DPU PDFs | 2014 – Q1 2026 | 856 |
+| Santa Ana, CA    | Major Projects HTML + monthly PDFs | 2022 – Q1 2026 | 154 |
 
 ![map screenshot placeholder](docs/screenshot.png)
 
 ## What it does
 
-- Discovers historical DPU PDFs (2014 – present) by walking the Wayback Machine
-  CDX index of `ggcity.org`. Falls back to live URLs first, then Wayback `id_/`
-  bytes when the city's site is offline.
-- Parses three distinct table layouts (border-table 2014–16, position-based
-  2017–18, modern table 2019+) using `pdfplumber`/`pymupdf`.
-- Loads parsed rows into SQLite (`data/city-planning.sqlite`), de-duped by
-  `(city, case_number, address)` so the same project across multiple quarterly
+- **Garden Grove**: walks the Wayback Machine CDX index of `ggcity.org` to
+  discover historical *Development Projects Update List* PDFs going back ~10
+  years. Three distinct table layouts (border-table 2014–16, position-based
+  2017–18, modern table 2019+) parsed with `pdfplumber`/`pymupdf`.
+- **Santa Ana**: scrapes the Major Planning Projects HTML table plus ~45
+  monthly Accepted Development Projects PDFs from
+  `storage.googleapis.com/proudcity/santaanaca/...`. Wraps the rows into the
+  same schema.
+- Loads parsed rows into SQLite (`data/city-planning.sqlite`), de-duped per
+  city by `(city, case_number, address)` so the same project across multiple
   reports collapses to one record with merged history.
-- Geocodes unique addresses through Nominatim (1 req/sec, cached, with sanity
-  bounds-check so out-of-area matches like "Garden Grove Boulevard, Ohio" are
-  rejected).
+- Geocodes unique addresses through Nominatim (1 req/sec, cached, with
+  per-city sanity bounds so out-of-area matches like "Garden Grove Boulevard,
+  Ohio" are rejected).
 - Exports `web/public/data/{projects,meta}.json` consumed by the React app.
 
 ## Pipeline
 
 ```bash
-make setup       # one-time: venv, pip install, npm install
-make scrape      # discover + cache all DPU PDFs into data/raw/
-make parse       # parse PDFs into data/parsed.json
-make load        # load into data/city-planning.sqlite
-make geocode     # geocode addresses (slow: 1 req/sec)
-make export      # emit web/public/data/{projects,meta}.json
-make refresh     # all of the above end-to-end
+make setup            # one-time: venv, pip install, npm install
+make scrape           # download all Garden Grove DPU PDFs
+make parse            # parse Garden Grove PDFs -> data/parsed.json
+make load             # load Garden Grove into data/city-planning.sqlite
+make scrape-santaana  # download Santa Ana sources (HTML + monthly PDFs)
+make parse-santaana   # parse Santa Ana -> data/parsed_santaana.json
+make load-santaana    # load Santa Ana into the same SQLite DB
+make geocode          # geocode all unmapped addresses (slow: 1 req/sec)
+make export           # emit web/public/data/{projects,meta}.json
+make refresh          # everything end-to-end (Garden Grove + Santa Ana)
 ```
 
 `make dev` serves the web app locally; `make build` produces a production
@@ -53,8 +65,10 @@ geocode_cache (raw_address, query, latitude, longitude, ...)
 ```
 
 `projects` has `UNIQUE(city_id, case_number, address)`. To add another city,
-insert a row in `cities`, add a scraper that drops PDFs into `data/raw/`, and
-update `parse_pdfs.py` to recognize that city's layout.
+insert a row in `cities`, add a scraper for that city's source, write a parser
+that emits the same row shape, and add a per-city loader. Santa Ana support
+(`scripts/santaana_scraper.py`, `santaana_parser.py`, `load_db_santaana.py`)
+is the reference for how multi-city extension looks.
 
 ## Deploy
 
@@ -73,9 +87,11 @@ with `make refresh` and commit.
 
 ## Credits
 
-Data comes from public records published by the City of Garden Grove. Map
-tiles © OpenStreetMap contributors. Historical PDFs sourced via the Internet
-Archive's Wayback Machine.
+Data comes from public records published by the City of Garden Grove
+(quarterly DPU reports) and the City of Santa Ana (major projects table and
+monthly accepted-projects reports). Map tiles © OpenStreetMap contributors.
+Historical Garden Grove PDFs sourced via the Internet Archive's Wayback
+Machine.
 
 ## License
 
