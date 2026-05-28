@@ -1,0 +1,2765 @@
+[
+  {
+    "source_url": "https://www.santa-ana.org/major-planning-projects-and-monthly-development-project-reports/",
+    "kind": "major",
+    "period_label": null,
+    "local_path": "data/raw/santaana/major-projects.html",
+    "title": "Major Planning Projects (HTML table)",
+    "rows": [
+      {
+        "project_name": "1st and Mountain View Townhome Development",
+        "address": "4320 W. 1st Street and 201 S. Mountain View Street",
+        "district": "1",
+        "applicant": "Storm Properties, INC",
+        "owner": "Santa Ana MV, LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "1st and Mountain View Townhome Development",
+        "date_accepted": "",
+        "source_link": "/1st-and-mountain-view-townhome-development/"
+      },
+      {
+        "project_name": "First Harbor Mixed-Use Development",
+        "address": "101 N. Harbor Boulevard",
+        "district": "5",
+        "applicant": "Charles \"Chuck\" Minyard",
+        "owner": "Primior, Inc.",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "First Harbor Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/1st-and-harbor-mixed-use-development/"
+      },
+      {
+        "project_name": "First St. and N. Golden Circle Townhomes Development",
+        "address": "2001 E 1st St.",
+        "district": "3",
+        "applicant": "SCA Development",
+        "owner": "The Chase Family Trust 4-23/1998",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "First St. and N. Golden Circle Townhomes Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/first-street-townhomes-2001-e-1st-street/"
+      },
+      {
+        "project_name": "2100 W. Alton Avenue Residential Development",
+        "address": "2100 W. Alton Avenue",
+        "district": "4",
+        "applicant": "Greg Ocasek, Project Consultant with Warmington Residential California, Inc.",
+        "owner": "BDC, Santa Ana, LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "2100 W. Alton Avenue Residential Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/2100-w-alton-avenue-residential-development/"
+      },
+      {
+        "project_name": "3rd and Broadway Mixed-Use Development",
+        "address": "201 W. 3rd Street",
+        "district": "5",
+        "applicant": "Mike Harrah, Caribou Industries",
+        "owner": "City of Santa Ana",
+        "status_raw": "Permits Issued",
+        "application_type": "",
+        "description": "3rd and Broadway Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/3rd-and-broadway-mixed-use-development/"
+      },
+      {
+        "project_name": "4th and Mortimer Mixed-Used Development",
+        "address": "409 E. 4th Street",
+        "district": "6",
+        "applicant": "Andrew Nelson, Red Oak Investments, LLC.",
+        "owner": "Los Altos XXI, LP GON-REY, LP.",
+        "status_raw": "Permits Issued",
+        "application_type": "",
+        "description": "4th and Mortimer Mixed-Used Development",
+        "date_accepted": "",
+        "source_link": "/4th-and-mortimer-mixed-use-development/"
+      },
+      {
+        "project_name": "5th and Harbor 45 Unit Townhome Development",
+        "address": "510 and 520 N. Harbor Blvd",
+        "district": "1",
+        "applicant": "Kim Prijatel, City Ventures",
+        "owner": "Alminlo Properties LLC.",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "5th and Harbor 45 Unit Townhome Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/5th-harbor-45-unit-townhome-development/"
+      },
+      {
+        "project_name": "7-Eleven Service Station (Euclid Street)",
+        "address": "813 N. Euclid Street",
+        "district": "1",
+        "applicant": "Adan Madrid, ASI Development",
+        "owner": "Euclid Hazard Capital LLC.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "7-Eleven Service Station (Euclid Street)",
+        "date_accepted": "",
+        "source_link": "/euclid-hazard-7-eleven-service-station/"
+      },
+      {
+        "project_name": "30-Unit Townhome Development",
+        "address": "501 S. Harbor Blvd.",
+        "district": "1",
+        "applicant": "Ventus Group, Mike O'Melveny",
+        "owner": "Ing Wen Hwang",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "30-Unit Townhome Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/30-townhome-development/"
+      },
+      {
+        "project_name": "Aspen Woods Townhome Development Project",
+        "address": "2030 E. Fourth Street",
+        "district": "3",
+        "applicant": "Mike VanBuskirk",
+        "owner": "C&C N. Harbor LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Aspen Woods Townhome Development Project",
+        "date_accepted": "",
+        "source_link": "/aspen-woods-townhome-development-project/"
+      },
+      {
+        "project_name": "Bella Terra Residential Community and Temple",
+        "address": "4006 W. Hazard Avenue",
+        "district": "",
+        "applicant": "Vince Fregoso, studio 2 design + partners",
+        "owner": "Nguyen, Long V.",
+        "status_raw": "Public Hearing",
+        "application_type": "",
+        "description": "Bella Terra Residential Community and Temple",
+        "date_accepted": "",
+        "source_link": "/bella-terra-residential-community-and-temple-4006-4018-west-hazard-avenue/"
+      },
+      {
+        "project_name": "Bewley Townhomes",
+        "address": "1122 N. Bewley Street",
+        "district": "1",
+        "applicant": "Ada Rose, YNG Architects",
+        "owner": "Nguyen, Kimloan J",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "Bewley Townhomes",
+        "date_accepted": "",
+        "source_link": "/bewley-street-townhomes/"
+      },
+      {
+        "project_name": "Cabrillo Crossing Townhomes",
+        "address": "1814 E. First Street",
+        "district": "3",
+        "applicant": "Brandywine Acquisition Group, LLC.",
+        "owner": "The Provider Fund, LP.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Cabrillo Crossing Townhomes",
+        "date_accepted": "",
+        "source_link": "/cabrillo-crossing-townhomes/"
+      },
+      {
+        "project_name": "Central Pointe Mixed-Use Development",
+        "address": "1801 E. 4th Street",
+        "district": "3",
+        "applicant": "Sean Rawson, Waterford Property Company",
+        "owner": "Park Center Santa Ana Associates LP.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Central Pointe Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/central-pointe-mixed-use-development/"
+      },
+      {
+        "project_name": "City Ventures 36 Unit Townhome — 125 and 205 South Harbor Boulevard",
+        "address": "125 and 205 South Harbor Boulevard",
+        "district": "",
+        "applicant": "Kim Prijatel / City Ventures",
+        "owner": "Kim Prijatel / City Ventures",
+        "status_raw": "Plan Check Review",
+        "application_type": "",
+        "description": "City Ventures 36 Unit Townhome — 125 and 205 South Harbor Boulevard",
+        "date_accepted": "",
+        "source_link": "/cityventures-mu-development/"
+      },
+      {
+        "project_name": "Cristo Rey School",
+        "address": "3601 S. Harbor Boulevard, Unit 200 & 3611 S. Harbor Boulevard",
+        "district": "1",
+        "applicant": "SOCO Harbor Inc.",
+        "owner": "Extra Space Properties 103, LLC",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "Cristo Rey School",
+        "date_accepted": "",
+        "source_link": "/cristo-rey-school/"
+      },
+      {
+        "project_name": "Extra Space Storage - 4th Street Expansion",
+        "address": "1030 E. 4th Street",
+        "district": "6",
+        "applicant": "Extra Space Properties",
+        "owner": "Extra Space Properties",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "Extra Space Storage - 4th Street Expansion",
+        "date_accepted": "",
+        "source_link": "/extra-space-storage/"
+      },
+      {
+        "project_name": "Extra Space Storage - Sullivan Street Expansion",
+        "address": "212-280 N. Sullivan Street",
+        "district": "5",
+        "applicant": "Extra Space Properties",
+        "owner": "Extra Space Properties 103, LLC",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "Extra Space Storage - Sullivan Street Expansion",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/extra-space-storage-sullivan-street-expansion/"
+      },
+      {
+        "project_name": "Habitat for Humanity Washington Avenue Project",
+        "address": "1921 W. Washington Avenue",
+        "district": "5",
+        "applicant": "Habitat for Humanity Orange County",
+        "owner": "Habitat for Humanity of Orange County",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Habitat for Humanity Washington Avenue Project",
+        "date_accepted": "",
+        "source_link": "/habitat-for-humanity-washington-avenue-project/"
+      },
+      {
+        "project_name": "Haphan Residential",
+        "address": "3025 W. Edinger Avenue",
+        "district": "1",
+        "applicant": "Quoc Phan, Haphan Group Inc.",
+        "owner": "Haphan Group Inc.",
+        "status_raw": "Under Construction (90% Complete)",
+        "application_type": "",
+        "description": "Haphan Residential",
+        "date_accepted": "",
+        "source_link": "/haphan-residential-development/"
+      },
+      {
+        "project_name": "Illumination Foundation Renovation Project",
+        "address": "918 N. Bewley Street",
+        "district": "5",
+        "applicant": "Illumination Foundation",
+        "owner": "IHLLC Bewley, LLC.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Illumination Foundation Renovation Project",
+        "date_accepted": "",
+        "source_link": "/illumination-foundation-renovation-project/"
+      },
+      {
+        "project_name": "KB Homes Residential Development",
+        "address": "1901 East 4th Street, 515 and 525 North Cabrillo Park Drive",
+        "district": "3",
+        "applicant": "KB Homes - Coastal",
+        "owner": "David A. Colton",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "KB Homes Residential Development",
+        "date_accepted": "",
+        "source_link": "/kb-homes-residential-development/"
+      },
+      {
+        "project_name": "Legado at the Met",
+        "address": "200 E. First American Way",
+        "district": "6",
+        "applicant": "Ki Ryu, Legado at the Met, LLC.",
+        "owner": "Legado at the Met, LLC.",
+        "status_raw": "Construction of Podium, 80% Complete",
+        "application_type": "",
+        "description": "Legado at the Met",
+        "date_accepted": "",
+        "source_link": "/legado-at-the-met/"
+      },
+      {
+        "project_name": "MLC Holdings/Meritage Homes — 2020 East First Street",
+        "address": "2020 East First Street",
+        "district": "3",
+        "applicant": "MLC Holdings",
+        "owner": "2020 E First, LLC",
+        "status_raw": "Demolition Started",
+        "application_type": "",
+        "description": "MLC Holdings/Meritage Homes — 2020 East First Street",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/mlc-holdings-meritage-homes-2020-east-first-street/"
+      },
+      {
+        "project_name": "Mountain View Residential Development",
+        "address": "301 N. Mountain View Street",
+        "district": "1",
+        "applicant": "Steve Jones, Olympia Capital Corporation",
+        "owner": "Mountainview Real Estate Investments LLC.",
+        "status_raw": "Under Construction, 80% Complete",
+        "application_type": "",
+        "description": "Mountain View Residential Development",
+        "date_accepted": "",
+        "source_link": "/mountain-view-8-unit-condominium-development/"
+      },
+      {
+        "project_name": "One Broadway Plaza",
+        "address": "1109 N. Broadway",
+        "district": "5",
+        "applicant": "Mike Harrah, Caribou Industries",
+        "owner": "One Broadway Plaza LLC.",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "One Broadway Plaza",
+        "date_accepted": "",
+        "source_link": "/one-broadway-plaza/"
+      },
+      {
+        "project_name": "Our Lady of Guadalupe Mixed-Use Development",
+        "address": "1322 E. Third Street",
+        "district": "6",
+        "applicant": "Our Lady of Guadalupe Church, Roman Catholic Diocese of Orange",
+        "owner": "Patrick Strader with Starpointe Ventures",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Our Lady of Guadalupe Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/our-lady-of-guadalupe-mixed-use-development/"
+      },
+      {
+        "project_name": "Park 55 Industrial Redevelopment Project",
+        "address": "1221 E. Dyer Road",
+        "district": "6",
+        "applicant": "Rob Mitchell, Greenlaw Partners, LLC.",
+        "owner": "Greenlaw Partners, LLC.",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Park 55 Industrial Redevelopment Project",
+        "date_accepted": "",
+        "source_link": "/park-55-industrial-redevelopment-project/"
+      },
+      {
+        "project_name": "Related California Bristol Specific Plan",
+        "address": "3600 S. Bristol St.",
+        "district": "4",
+        "applicant": "Steven Oh, Related Companies of California",
+        "owner": "MCG Bristol West LLC.",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "Related California Bristol Specific Plan",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/related-california-bristol-specific-plan/"
+      },
+      {
+        "project_name": "Santa Ana Lyon Towns (Formerly Warmington Residential)",
+        "address": "571 S. Lyon Street",
+        "district": "3",
+        "applicant": "Henry Winterhalter, Toll Brothers",
+        "owner": "Toll Brothers (Toll West Coast LLC)",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Santa Ana Lyon Towns (Formerly Warmington Residential)",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/warmington-residential-development/"
+      },
+      {
+        "project_name": "Smoketree Warmington Residential Project",
+        "address": "1350 and 1450 N. Tustin Avenue",
+        "district": "3",
+        "applicant": "Warmington Residential Group",
+        "owner": "William Richard Nisson",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Smoketree Warmington Residential Project",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/smoketree-warmington-residential-development-2/"
+      },
+      {
+        "project_name": "South Coast Technology Center",
+        "address": "3100, 3110, 3120 W. Lake Center Drive",
+        "district": "",
+        "applicant": "Jeffrey M. Reese, C.J. Segerstrom & Sons",
+        "owner": "C.J. Segerstrom & Sons",
+        "status_raw": "Entitlements Approved, Under Construction",
+        "application_type": "",
+        "description": "South Coast Technology Center",
+        "date_accepted": "",
+        "source_link": "/south-coast-technology-center-3100-3110-3120-west-lake-center-drive/"
+      },
+      {
+        "project_name": "The Madison",
+        "address": "200 N. Cabrillo Park Drive",
+        "district": "3",
+        "applicant": "Robert Bisno, Cabrillo Community Partners, LLC.",
+        "owner": "First Credit Bank",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "The Madison",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/the-madison/"
+      },
+      {
+        "project_name": "The Residences at South Bristol Street",
+        "address": "2402 S. Bristol Street",
+        "district": "4",
+        "applicant": "Michael Johnston, KF Future LLC",
+        "owner": "KF Future LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "The Residences at South Bristol Street",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/the-residences-at-south-bristol-street-development/"
+      },
+      {
+        "project_name": "The Village Specific Plan",
+        "address": "1561 W. Sunflower Avenue",
+        "district": "4",
+        "applicant": "Justin McCusker, South Coast Plaza",
+        "owner": "South Coast Plaza",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "The Village Specific Plan",
+        "date_accepted": "",
+        "source_link": "/the-village-santa-ana-specific-plan/"
+      },
+      {
+        "project_name": "Think Together Residential Development",
+        "address": "2101 E. 4th Street",
+        "district": "3",
+        "applicant": "Think Together",
+        "owner": "Think Together",
+        "status_raw": "Public Hearing",
+        "application_type": "",
+        "description": "Think Together Residential Development",
+        "date_accepted": "",
+        "source_link": "/think-together-residential-development/"
+      },
+      {
+        "project_name": "Warner Redhill Mixed-Use Development (Formerly The Bowery)",
+        "address": "2300 S. Red Hill Avenue",
+        "district": "6",
+        "applicant": "Ryan Gahagan, Arrimus Capital",
+        "owner": "RHW Holdings, LLC.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Warner Redhill Mixed-Use Development (Formerly The Bowery)",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/warner-redhill-mixed-use-development-formerly-known-as-the-bowery/"
+      },
+      {
+        "project_name": "Watermarke Sandpointe",
+        "address": "200 E. Sandpointe Avenue",
+        "district": "",
+        "applicant": "Jonny Schneider",
+        "owner": "East Sandpointe LLC.",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Watermarke Sandpointe",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/watermarke-sandpointe/"
+      },
+      {
+        "project_name": "WISEPlace PSH Adaptive Reuse Development",
+        "address": "1411 N. Broadway",
+        "district": "5",
+        "applicant": "Brateil Aghasi, Executive Director WISEPlace",
+        "owner": "WISEPlace, a California nonprofit public benefit corporation",
+        "status_raw": "Construction Completed",
+        "application_type": "",
+        "description": "WISEPlace PSH Adaptive Reuse Development",
+        "date_accepted": "",
+        "source_link": "/wiseplace-psh-adaptive-reuse-development/"
+      },
+      {
+        "project_name": "YMCA",
+        "address": "205 W. Civic Center Drive",
+        "district": "5",
+        "applicant": "Mike Harrah, Caribou Industries, Inc.",
+        "owner": "Mike Harrah, Caribou Industries, Inc.",
+        "status_raw": "N/A",
+        "application_type": "",
+        "description": "YMCA",
+        "date_accepted": "",
+        "source_link": "/ymca/"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/major-planning-projects-and-monthly-development-project-reports/",
+    "kind": "major",
+    "period_label": null,
+    "local_path": "data/raw/santaana/major-projects.html",
+    "title": "Major Planning Projects (HTML table)",
+    "rows": [
+      {
+        "project_name": "1st and Mountain View Townhome Development",
+        "address": "4320 W. 1st Street and 201 S. Mountain View Street",
+        "district": "1",
+        "applicant": "Storm Properties, INC",
+        "owner": "Santa Ana MV, LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "1st and Mountain View Townhome Development",
+        "date_accepted": "",
+        "source_link": "/1st-and-mountain-view-townhome-development/"
+      },
+      {
+        "project_name": "First Harbor Mixed-Use Development",
+        "address": "101 N. Harbor Boulevard",
+        "district": "5",
+        "applicant": "Charles \"Chuck\" Minyard",
+        "owner": "Primior, Inc.",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "First Harbor Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/1st-and-harbor-mixed-use-development/"
+      },
+      {
+        "project_name": "First St. and N. Golden Circle Townhomes Development",
+        "address": "2001 E 1st St.",
+        "district": "3",
+        "applicant": "SCA Development",
+        "owner": "The Chase Family Trust 4-23/1998",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "First St. and N. Golden Circle Townhomes Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/first-street-townhomes-2001-e-1st-street/"
+      },
+      {
+        "project_name": "2100 W. Alton Avenue Residential Development",
+        "address": "2100 W. Alton Avenue",
+        "district": "4",
+        "applicant": "Greg Ocasek, Project Consultant with Warmington Residential California, Inc.",
+        "owner": "BDC, Santa Ana, LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "2100 W. Alton Avenue Residential Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/2100-w-alton-avenue-residential-development/"
+      },
+      {
+        "project_name": "3rd and Broadway Mixed-Use Development",
+        "address": "201 W. 3rd Street",
+        "district": "5",
+        "applicant": "Mike Harrah, Caribou Industries",
+        "owner": "City of Santa Ana",
+        "status_raw": "Permits Issued",
+        "application_type": "",
+        "description": "3rd and Broadway Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/3rd-and-broadway-mixed-use-development/"
+      },
+      {
+        "project_name": "4th and Mortimer Mixed-Used Development",
+        "address": "409 E. 4th Street",
+        "district": "6",
+        "applicant": "Andrew Nelson, Red Oak Investments, LLC.",
+        "owner": "Los Altos XXI, LP GON-REY, LP.",
+        "status_raw": "Permits Issued",
+        "application_type": "",
+        "description": "4th and Mortimer Mixed-Used Development",
+        "date_accepted": "",
+        "source_link": "/4th-and-mortimer-mixed-use-development/"
+      },
+      {
+        "project_name": "5th and Harbor 45 Unit Townhome Development",
+        "address": "510 and 520 N. Harbor Blvd",
+        "district": "1",
+        "applicant": "Kim Prijatel, City Ventures",
+        "owner": "Alminlo Properties LLC.",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "5th and Harbor 45 Unit Townhome Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/5th-harbor-45-unit-townhome-development/"
+      },
+      {
+        "project_name": "7-Eleven Service Station (Euclid Street)",
+        "address": "813 N. Euclid Street",
+        "district": "1",
+        "applicant": "Adan Madrid, ASI Development",
+        "owner": "Euclid Hazard Capital LLC.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "7-Eleven Service Station (Euclid Street)",
+        "date_accepted": "",
+        "source_link": "/euclid-hazard-7-eleven-service-station/"
+      },
+      {
+        "project_name": "30-Unit Townhome Development",
+        "address": "501 S. Harbor Blvd.",
+        "district": "1",
+        "applicant": "Ventus Group, Mike O'Melveny",
+        "owner": "Ing Wen Hwang",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "30-Unit Townhome Development",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/30-townhome-development/"
+      },
+      {
+        "project_name": "Aspen Woods Townhome Development Project",
+        "address": "2030 E. Fourth Street",
+        "district": "3",
+        "applicant": "Mike VanBuskirk",
+        "owner": "C&C N. Harbor LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Aspen Woods Townhome Development Project",
+        "date_accepted": "",
+        "source_link": "/aspen-woods-townhome-development-project/"
+      },
+      {
+        "project_name": "Bella Terra Residential Community and Temple",
+        "address": "4006 W. Hazard Avenue",
+        "district": "",
+        "applicant": "Vince Fregoso, studio 2 design + partners",
+        "owner": "Nguyen, Long V.",
+        "status_raw": "Public Hearing",
+        "application_type": "",
+        "description": "Bella Terra Residential Community and Temple",
+        "date_accepted": "",
+        "source_link": "/bella-terra-residential-community-and-temple-4006-4018-west-hazard-avenue/"
+      },
+      {
+        "project_name": "Bewley Townhomes",
+        "address": "1122 N. Bewley Street",
+        "district": "1",
+        "applicant": "Ada Rose, YNG Architects",
+        "owner": "Nguyen, Kimloan J",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "Bewley Townhomes",
+        "date_accepted": "",
+        "source_link": "/bewley-street-townhomes/"
+      },
+      {
+        "project_name": "Cabrillo Crossing Townhomes",
+        "address": "1814 E. First Street",
+        "district": "3",
+        "applicant": "Brandywine Acquisition Group, LLC.",
+        "owner": "The Provider Fund, LP.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Cabrillo Crossing Townhomes",
+        "date_accepted": "",
+        "source_link": "/cabrillo-crossing-townhomes/"
+      },
+      {
+        "project_name": "Central Pointe Mixed-Use Development",
+        "address": "1801 E. 4th Street",
+        "district": "3",
+        "applicant": "Sean Rawson, Waterford Property Company",
+        "owner": "Park Center Santa Ana Associates LP.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Central Pointe Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/central-pointe-mixed-use-development/"
+      },
+      {
+        "project_name": "City Ventures 36 Unit Townhome — 125 and 205 South Harbor Boulevard",
+        "address": "125 and 205 South Harbor Boulevard",
+        "district": "",
+        "applicant": "Kim Prijatel / City Ventures",
+        "owner": "Kim Prijatel / City Ventures",
+        "status_raw": "Plan Check Review",
+        "application_type": "",
+        "description": "City Ventures 36 Unit Townhome — 125 and 205 South Harbor Boulevard",
+        "date_accepted": "",
+        "source_link": "/cityventures-mu-development/"
+      },
+      {
+        "project_name": "Cristo Rey School",
+        "address": "3601 S. Harbor Boulevard, Unit 200 & 3611 S. Harbor Boulevard",
+        "district": "1",
+        "applicant": "SOCO Harbor Inc.",
+        "owner": "Extra Space Properties 103, LLC",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "Cristo Rey School",
+        "date_accepted": "",
+        "source_link": "/cristo-rey-school/"
+      },
+      {
+        "project_name": "Extra Space Storage - 4th Street Expansion",
+        "address": "1030 E. 4th Street",
+        "district": "6",
+        "applicant": "Extra Space Properties",
+        "owner": "Extra Space Properties",
+        "status_raw": "Building Plan Check",
+        "application_type": "",
+        "description": "Extra Space Storage - 4th Street Expansion",
+        "date_accepted": "",
+        "source_link": "/extra-space-storage/"
+      },
+      {
+        "project_name": "Extra Space Storage - Sullivan Street Expansion",
+        "address": "212-280 N. Sullivan Street",
+        "district": "5",
+        "applicant": "Extra Space Properties",
+        "owner": "Extra Space Properties 103, LLC",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "Extra Space Storage - Sullivan Street Expansion",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/extra-space-storage-sullivan-street-expansion/"
+      },
+      {
+        "project_name": "Habitat for Humanity Washington Avenue Project",
+        "address": "1921 W. Washington Avenue",
+        "district": "5",
+        "applicant": "Habitat for Humanity Orange County",
+        "owner": "Habitat for Humanity of Orange County",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Habitat for Humanity Washington Avenue Project",
+        "date_accepted": "",
+        "source_link": "/habitat-for-humanity-washington-avenue-project/"
+      },
+      {
+        "project_name": "Haphan Residential",
+        "address": "3025 W. Edinger Avenue",
+        "district": "1",
+        "applicant": "Quoc Phan, Haphan Group Inc.",
+        "owner": "Haphan Group Inc.",
+        "status_raw": "Under Construction (90% Complete)",
+        "application_type": "",
+        "description": "Haphan Residential",
+        "date_accepted": "",
+        "source_link": "/haphan-residential-development/"
+      },
+      {
+        "project_name": "Illumination Foundation Renovation Project",
+        "address": "918 N. Bewley Street",
+        "district": "5",
+        "applicant": "Illumination Foundation",
+        "owner": "IHLLC Bewley, LLC.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Illumination Foundation Renovation Project",
+        "date_accepted": "",
+        "source_link": "/illumination-foundation-renovation-project/"
+      },
+      {
+        "project_name": "KB Homes Residential Development",
+        "address": "1901 East 4th Street, 515 and 525 North Cabrillo Park Drive",
+        "district": "3",
+        "applicant": "KB Homes - Coastal",
+        "owner": "David A. Colton",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "KB Homes Residential Development",
+        "date_accepted": "",
+        "source_link": "/kb-homes-residential-development/"
+      },
+      {
+        "project_name": "Legado at the Met",
+        "address": "200 E. First American Way",
+        "district": "6",
+        "applicant": "Ki Ryu, Legado at the Met, LLC.",
+        "owner": "Legado at the Met, LLC.",
+        "status_raw": "Construction of Podium, 80% Complete",
+        "application_type": "",
+        "description": "Legado at the Met",
+        "date_accepted": "",
+        "source_link": "/legado-at-the-met/"
+      },
+      {
+        "project_name": "MLC Holdings/Meritage Homes — 2020 East First Street",
+        "address": "2020 East First Street",
+        "district": "3",
+        "applicant": "MLC Holdings",
+        "owner": "2020 E First, LLC",
+        "status_raw": "Demolition Started",
+        "application_type": "",
+        "description": "MLC Holdings/Meritage Homes — 2020 East First Street",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/mlc-holdings-meritage-homes-2020-east-first-street/"
+      },
+      {
+        "project_name": "Mountain View Residential Development",
+        "address": "301 N. Mountain View Street",
+        "district": "1",
+        "applicant": "Steve Jones, Olympia Capital Corporation",
+        "owner": "Mountainview Real Estate Investments LLC.",
+        "status_raw": "Under Construction, 80% Complete",
+        "application_type": "",
+        "description": "Mountain View Residential Development",
+        "date_accepted": "",
+        "source_link": "/mountain-view-8-unit-condominium-development/"
+      },
+      {
+        "project_name": "One Broadway Plaza",
+        "address": "1109 N. Broadway",
+        "district": "5",
+        "applicant": "Mike Harrah, Caribou Industries",
+        "owner": "One Broadway Plaza LLC.",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "One Broadway Plaza",
+        "date_accepted": "",
+        "source_link": "/one-broadway-plaza/"
+      },
+      {
+        "project_name": "Our Lady of Guadalupe Mixed-Use Development",
+        "address": "1322 E. Third Street",
+        "district": "6",
+        "applicant": "Our Lady of Guadalupe Church, Roman Catholic Diocese of Orange",
+        "owner": "Patrick Strader with Starpointe Ventures",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Our Lady of Guadalupe Mixed-Use Development",
+        "date_accepted": "",
+        "source_link": "/our-lady-of-guadalupe-mixed-use-development/"
+      },
+      {
+        "project_name": "Park 55 Industrial Redevelopment Project",
+        "address": "1221 E. Dyer Road",
+        "district": "6",
+        "applicant": "Rob Mitchell, Greenlaw Partners, LLC.",
+        "owner": "Greenlaw Partners, LLC.",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Park 55 Industrial Redevelopment Project",
+        "date_accepted": "",
+        "source_link": "/park-55-industrial-redevelopment-project/"
+      },
+      {
+        "project_name": "Related California Bristol Specific Plan",
+        "address": "3600 S. Bristol St.",
+        "district": "4",
+        "applicant": "Steven Oh, Related Companies of California",
+        "owner": "MCG Bristol West LLC.",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "Related California Bristol Specific Plan",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/related-california-bristol-specific-plan/"
+      },
+      {
+        "project_name": "Santa Ana Lyon Towns (Formerly Warmington Residential)",
+        "address": "571 S. Lyon Street",
+        "district": "3",
+        "applicant": "Henry Winterhalter, Toll Brothers",
+        "owner": "Toll Brothers (Toll West Coast LLC)",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Santa Ana Lyon Towns (Formerly Warmington Residential)",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/warmington-residential-development/"
+      },
+      {
+        "project_name": "Smoketree Warmington Residential Project",
+        "address": "1350 and 1450 N. Tustin Avenue",
+        "district": "3",
+        "applicant": "Warmington Residential Group",
+        "owner": "William Richard Nisson",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Smoketree Warmington Residential Project",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/smoketree-warmington-residential-development-2/"
+      },
+      {
+        "project_name": "South Coast Technology Center",
+        "address": "3100, 3110, 3120 W. Lake Center Drive",
+        "district": "",
+        "applicant": "Jeffrey M. Reese, C.J. Segerstrom & Sons",
+        "owner": "C.J. Segerstrom & Sons",
+        "status_raw": "Entitlements Approved, Under Construction",
+        "application_type": "",
+        "description": "South Coast Technology Center",
+        "date_accepted": "",
+        "source_link": "/south-coast-technology-center-3100-3110-3120-west-lake-center-drive/"
+      },
+      {
+        "project_name": "The Madison",
+        "address": "200 N. Cabrillo Park Drive",
+        "district": "3",
+        "applicant": "Robert Bisno, Cabrillo Community Partners, LLC.",
+        "owner": "First Credit Bank",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "The Madison",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/the-madison/"
+      },
+      {
+        "project_name": "The Residences at South Bristol Street",
+        "address": "2402 S. Bristol Street",
+        "district": "4",
+        "applicant": "Michael Johnston, KF Future LLC",
+        "owner": "KF Future LLC",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "The Residences at South Bristol Street",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/the-residences-at-south-bristol-street-development/"
+      },
+      {
+        "project_name": "The Village Specific Plan",
+        "address": "1561 W. Sunflower Avenue",
+        "district": "4",
+        "applicant": "Justin McCusker, South Coast Plaza",
+        "owner": "South Coast Plaza",
+        "status_raw": "Entitlements Approved",
+        "application_type": "",
+        "description": "The Village Specific Plan",
+        "date_accepted": "",
+        "source_link": "/the-village-santa-ana-specific-plan/"
+      },
+      {
+        "project_name": "Think Together Residential Development",
+        "address": "2101 E. 4th Street",
+        "district": "3",
+        "applicant": "Think Together",
+        "owner": "Think Together",
+        "status_raw": "Public Hearing",
+        "application_type": "",
+        "description": "Think Together Residential Development",
+        "date_accepted": "",
+        "source_link": "/think-together-residential-development/"
+      },
+      {
+        "project_name": "Warner Redhill Mixed-Use Development (Formerly The Bowery)",
+        "address": "2300 S. Red Hill Avenue",
+        "district": "6",
+        "applicant": "Ryan Gahagan, Arrimus Capital",
+        "owner": "RHW Holdings, LLC.",
+        "status_raw": "Under Construction",
+        "application_type": "",
+        "description": "Warner Redhill Mixed-Use Development (Formerly The Bowery)",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/warner-redhill-mixed-use-development-formerly-known-as-the-bowery/"
+      },
+      {
+        "project_name": "Watermarke Sandpointe",
+        "address": "200 E. Sandpointe Avenue",
+        "district": "",
+        "applicant": "Jonny Schneider",
+        "owner": "East Sandpointe LLC.",
+        "status_raw": "Development Project Review",
+        "application_type": "",
+        "description": "Watermarke Sandpointe",
+        "date_accepted": "",
+        "source_link": "https://www.santa-ana.org/watermarke-sandpointe/"
+      },
+      {
+        "project_name": "WISEPlace PSH Adaptive Reuse Development",
+        "address": "1411 N. Broadway",
+        "district": "5",
+        "applicant": "Brateil Aghasi, Executive Director WISEPlace",
+        "owner": "WISEPlace, a California nonprofit public benefit corporation",
+        "status_raw": "Construction Completed",
+        "application_type": "",
+        "description": "WISEPlace PSH Adaptive Reuse Development",
+        "date_accepted": "",
+        "source_link": "/wiseplace-psh-adaptive-reuse-development/"
+      },
+      {
+        "project_name": "YMCA",
+        "address": "205 W. Civic Center Drive",
+        "district": "5",
+        "applicant": "Mike Harrah, Caribou Industries, Inc.",
+        "owner": "Mike Harrah, Caribou Industries, Inc.",
+        "status_raw": "N/A",
+        "application_type": "",
+        "description": "YMCA",
+        "date_accepted": "",
+        "source_link": "/ymca/"
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2023/",
+    "kind": "monthly",
+    "period_label": "april-2023",
+    "local_path": "data/raw/santaana/april-2023.pdf",
+    "title": "Accepted Development Projects, April 2023",
+    "rows": [
+      {
+        "project_name": "Archangel Church Parking Lot Expansion",
+        "address": "4405 W. Edinger Street",
+        "district": "1",
+        "applicant": "Archangel Michael Coptic Church",
+        "owner": "Archangel Michael Coptic Church",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Voluntary Lot Merger application and a Conditional Use Permit",
+        "description": "The applicant is proposing to consolidate three parcels (APNs: 108-244-30, 108-244-14, and 108- 244-13). The scope of work includes demolishing two (2) existing single-family homes in order to create 50 new parking spaces to serve the existing church. The project will require approval of a development project review, voluntary lot merger application, and a conditional use permit.",
+        "date_accepted": "4/10/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2024/",
+    "kind": "monthly",
+    "period_label": "april-2024",
+    "local_path": "data/raw/santaana/april-2024.pdf",
+    "title": "Accepted Development Projects, April 2024",
+    "rows": [
+      {
+        "project_name": "New Dutch Bros Coffee Drive- Through",
+        "address": "1819 N Tustin Avenue",
+        "district": "3",
+        "applicant": "Dutch Bros Coffee / John Caglia",
+        "owner": "John C Hall and Cindalee P Hall",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "The applicant is proposing to construct a 950 single story commercial building with drive through service. Other site improvements include a new parking lot, landscape upgrades, outdoor dining area and ADA improvements. This application is discretionary as it requires the approval of a Conditional Use Permit for the drive through.",
+        "date_accepted": "04/02/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Arthouse On Main – Adaptive Reuse",
+        "address": "2700 N Main Street",
+        "district": "3",
+        "applicant": "SODA.LA / Derrick Flynn",
+        "owner": "Arthouse on Main LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing an Adaptive Reuse Project to convert an existing 12-story, 112,529-square- foot commercial office building into a mixed-use residential project with 162 residential units, 5,265 square feet of ground floor commercial/retail uses, 2,416- square-foot recreational area, and a 6,810-square-foot roof deck above the second floor. As proposed, the request would require administrative review and approval of a development project application.",
+        "date_accepted": "04/16/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Santa Ana 8-510 & 520 N. Harbor Blvd.",
+        "address": "510 N Harbor Blvd",
+        "district": "1",
+        "applicant": "Kim Prijatel, City Ventures",
+        "owner": "Alminlo Properties LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for SB 330, Lot Merger application, and",
+        "description": "The applicant proposes to demolish an existing auto sales building and construct 45 for-sale townhouse units in nine buildings totaling",
+        "date_accepted": "04/30/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2025/",
+    "kind": "monthly",
+    "period_label": "april-2025",
+    "local_path": "data/raw/santaana/april-2025.pdf",
+    "title": "Accepted Development Projects, April 2025",
+    "rows": [
+      {
+        "project_name": "Cristo Rey School",
+        "address": "3601 S. Harbor Blvd.",
+        "district": "1",
+        "applicant": "SOCO Harbor, Inc",
+        "owner": "SOCO Harbor, Inc",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit or General Plan Amendment and Amendment Application (Zone Change)",
+        "description": "Applicant seeks to establish a school in two existing office buildings at 3601 and 3611 S. Harbor Boulevard. The site is developed with four existing office buildings (3601, 3611, 3621, and 3631 S. Harbor Blvd). Entitlement process to be determined through the Development Project review process. A Conditional Use Permit may be required if the proposed use is determined to be trade school use. And, a General Plan Amendment and zone change may be required if the use is determined to be school use.",
+        "date_accepted": "04/07/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "21 Townhome Development",
+        "address": "3317 W. Fifth Street",
+        "district": "5",
+        "applicant": "Keystone DCS, Inc",
+        "owner": "Home Expo Commercial LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Tract Map and a Density Bonus Agreement",
+        "description": "Applicant proposes to construct a 3- story, 21-unit townhome home development (four buildings) at 3317, 3319, 3321, and 3401 W. 5th Street. The project is discretionary, requiring Vesting Tentative Tract Map and Density Bonus approval for density bonus and waivers.",
+        "date_accepted": "04/07/02025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Lot Line Adjustment",
+        "address": "2525 N. Main Street",
+        "district": "3",
+        "applicant": "AC 2525 Main LLC",
+        "owner": "AC 2525 Main LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for Lot Line Adjustment",
+        "description": "Applicant is proposing to modify the property line located between APN 003-010-35 and 003-010-36 to increase the size of APN 03-010-35. As proposed the project requires approval of a lot line adjustment.",
+        "date_accepted": "04/16/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-april-2026/",
+    "kind": "monthly",
+    "period_label": "april-2026",
+    "local_path": "data/raw/santaana/april-2026.pdf",
+    "title": "Accepted Development Projects, April 2026",
+    "rows": [
+      {
+        "project_name": "Our Lady of Guadalupe Mixed-Use Development",
+        "address": "",
+        "district": "",
+        "applicant": "Patrick Strader with Starpointe Ventures",
+        "owner": "Our Lady of Guadalupe Church, Roman Catholic Diocese of Orange",
+        "status_raw": "",
+        "application_type": "",
+        "description": "Approval of a Campus Master Plan to facilitate the construction of a 900-seat church and two apartment buildings containing 44 residential units and rehabilitation of the existing parish hall and ancillary buildings.",
+        "date_accepted": "",
+        "source_link": ""
+      },
+      {
+        "project_name": "UPC La Senda Antigua Church",
+        "address": "",
+        "district": "",
+        "applicant": "Antonio Cortes with YNG Architects",
+        "owner": "United Pentecostal Church ‘La Senda Antigua’",
+        "status_raw": "",
+        "application_type": "",
+        "description": "Approval to allow a change of use an existing retail building into a church. Project includes improvements to the exterior and interior of existing building, parking lot, and landscape.",
+        "date_accepted": "",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2022/",
+    "kind": "monthly",
+    "period_label": "august-2022",
+    "local_path": "data/raw/santaana/august-2022.pdf",
+    "title": "Accepted Development Projects, August 2022",
+    "rows": [
+      {
+        "project_name": "Cabrillo Town Center Mixed- Use Development",
+        "address": "1901 E. 4th Street",
+        "district": "3",
+        "applicant": "Andrea Maloney",
+        "owner": "David A. Colton, Trustee of David A. Colston Trust",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant proposes a mixed-use development on an 8.97-acre site consisting of 449 apartment units, 58 townhome units, 9,000 square feet of live/work commercial area, and 6,000 square feet of commercial area. An SB 330 application is proposed, and approval of a development project, site plan review, and a subdivision will ultimately be required. The project is discretionary.",
+        "date_accepted": "8/1/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "7-Leaves Drive- Thru",
+        "address": "3000 S. Bristol Street",
+        "district": "4",
+        "applicant": "Michael Trang",
+        "owner": "CJ Segestrom & Sons",
+        "status_raw": "",
+        "application_type": "Development Project Review and Conditional Use Permit",
+        "description": "The applicant is proposing to use the existing 1,900 sq. ft. commercial building as a cafe with drive-thru services. The project is discretionary and approval of a conditional use permit (CUP) is required to allow the drive-thru window services.",
+        "date_accepted": "8/8/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "4-Lot Subdivision",
+        "address": "2056 W. Civic Center Drive",
+        "district": "5",
+        "applicant": "Maltey Keobengvath",
+        "owner": "Beng Bath Keo and Domaneth Chau",
+        "status_raw": "",
+        "application_type": "Development Project Review and Tentative Tract Map",
+        "description": "The applicant is requesting approval to subdivide an existing 0.61-acre (26,745 square feet) lot into four single-family lots. This project is discretionary and requires Zoning Administrator approval of a tentative parcel map.",
+        "date_accepted": "8/16/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "Covicon",
+        "address": "3020 W. Harvard Street",
+        "district": "1",
+        "applicant": "Covi Construction Inc.",
+        "owner": "Cottons Investment Group, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing a new two-unit 14,500 square foot industrial building. The CMU building will total 12,500 square feet of ground floor area with 2,000 square feet of mezzanine office space for a building that will total 14,500 square feet. The building will be divided into two identical tenants with 5,250 of warehouse with 1,000 square feet of ground floor and 1,000 square feet of mezzanine office space on each unit. The project requires administrative approval.",
+        "date_accepted": "8/24/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "Fortis Adaptive Reuse",
+        "address": "1311 N. Broadway",
+        "district": "5",
+        "applicant": "Fortis Investments",
+        "owner": "Fortis Investments",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to convert an existing medical office into a multi-family apartment building. The existing medical building is 2,321 sq. ft. and the applicant is proposing to add 132 sq. ft. for a total of 2,505 sq. ft. The apartment building will include five residential units with",
+        "date_accepted": "8/25/2022",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2023/",
+    "kind": "monthly",
+    "period_label": "august-2023",
+    "local_path": "data/raw/santaana/august-2023.pdf",
+    "title": "Accepted Development Projects, August 2023",
+    "rows": [
+      {
+        "project_name": "Olive Crest Transitional Youth Housing Development",
+        "address": "2130 E. 4th Street",
+        "district": "3",
+        "applicant": "Olive Crest",
+        "owner": "Olive Crest",
+        "status_raw": "",
+        "application_type": "Development Review Project for a State Density Bonus Agreement and SB 330",
+        "description": "SB 330 application for a 16-unit residential development. The development consists of two, two-story residential buildings each 7,772 sq. ft. and each with eight, two- bedroom units; 6,183 sq. ft. of common open space; and includes three affordable units to low income residents. The project requires review and approval of a State Density Bonus Agreement as it seeks incentives/concessions.",
+        "date_accepted": "8/1/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Major Wireless Facility Renewal",
+        "address": "2624 S. Hickory Street",
+        "district": "6",
+        "applicant": "ATC Sequoia LLC",
+        "owner": "Greedy Family LLC",
+        "status_raw": "",
+        "application_type": "Development Review Project for a Conditional Use Permit",
+        "description": "The applicant is proposing to renew CUP No. 2011-06 for an existing mono-pine wireless cell facility (for Verizon). The mono-pine structure is approximately 57 feet high and the leased area is 585 square feet. This project requires review and approval of a Conditional Use Permit.",
+        "date_accepted": "8/3/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "The Village Specific Plan",
+        "address": "1561 W. sunflower Avenue",
+        "district": "4",
+        "applicant": "South Coast Plaza",
+        "owner": "South Coast Plaza",
+        "status_raw": "",
+        "application_type": "Development Review Project for an Amendment Application, Development Agreement, Tentative Tract Map, and Conditional Use Permit",
+        "description": "The applicant is proposing a specific plan for a 17.2-acre site to allow up to 1,583 residential units, up to 300,000 square feet of office space, and up to 80,000 square feet of retail space. In addition, the project includes 3,520 on-site parking spaces, 3.63- acres of publicly accessible open space, and 3.27-acres of private amenity spaces. The project requires discretionary approval of an amendment application (zone change) for a specific plan, development agreement, tentative tract map, conditional use permit for on-site alcohol sales, and an inclusionary housing plan by the City Council.",
+        "date_accepted": "8/7/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2024/",
+    "kind": "monthly",
+    "period_label": "august-2024",
+    "local_path": "data/raw/santaana/august-2024.pdf",
+    "title": "Accepted Development Projects, August 2024",
+    "rows": [
+      {
+        "project_name": "City Ventures Residential Development",
+        "address": "125 S Harbor Blvd",
+        "district": "1",
+        "applicant": "Kim Prijatel / City Ventures",
+        "owner": "Kim Prijatel / City Ventures",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Tract Map, Inclusionary Housing Application, &SB 330",
+        "description": "The applicant is proposing to construct 36, three story for sale townhome units on a 1.5 acre lot. each unit would have an attached two car garage with a combination of tandem and side by side parking and private decks/patios. Four units (10%) would be restricted for moderate income households consistent. The project would be discretionary and require planning commission approval as it would require a tentative tract map. No development standard deviations are proposed at this time. An Inclusionary Housing application and SB 330 application was submitted as part of this submittal.",
+        "date_accepted": "08/01/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2022/",
+    "kind": "monthly",
+    "period_label": "december-2022",
+    "local_path": "data/raw/santaana/december-2022.pdf",
+    "title": "Accepted Development Projects, December 2022",
+    "rows": [
+      {
+        "project_name": "Cristo Rey Orange County High School",
+        "address": "2204 W. McFadden Avenue",
+        "district": "2",
+        "applicant": "Stephen Holte",
+        "owner": "Immaculate Heart of Mary Church",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "The applicant is proposing a change of operations to an existing 36,722 sq. ft. private school, currently operating as a K-8 school. The private school is proposed to operate as a college-preparatory high school with 17 classrooms housing 400 students, with approximately 100 students per grade (9- 12th). The site is improved with an office building, hall building, a church, and 390 parking stalls, 116 which will be dedicated for the high school. No new construction is proposed. The request will require discretionary review and approval of a Conditional Use Permit.",
+        "date_accepted": "12/20/22",
+        "source_link": ""
+      },
+      {
+        "project_name": "Del Amo Motor Sports Billboard",
+        "address": "2401 S. Pullman Street",
+        "district": "4",
+        "applicant": "Erika Villaruel",
+        "owner": "Pullman, LP",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "The applicant is proposing to construct a new double faced \"V\"-shaped illuminated pylon sign with full color LED display, 60' height by display width 48' by 20' to be utilized to include off-site identification along the 55 freeway, located in a M1 zone. The request will require discretionary review and approval of a Conditional Use Permit.",
+        "date_accepted": "12/20/22",
+        "source_link": ""
+      },
+      {
+        "project_name": "Saigon Reform Presbyterian Church",
+        "address": "5321 W. McFadden Avenue",
+        "district": "1",
+        "applicant": "Bao Pham",
+        "owner": "Saigon Reform Presbyterian Church",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "The applicant is proposing to rebuild a church at the subject site previously destroyed in a fire. The project will include 6,000 SF of worship building at phase one and a 2,870 SF multipurpose building at phase 2. The request will require discretionary review and approval of a Conditional Use Permit.",
+        "date_accepted": "12/27/22",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2023/",
+    "kind": "monthly",
+    "period_label": "december-2023",
+    "local_path": "data/raw/santaana/december-2023.pdf",
+    "title": "Accepted Development Projects, December 2023",
+    "rows": [
+      {
+        "project_name": "The Plug Banquet Facility",
+        "address": "1950 E Seventeenth Street",
+        "district": "3",
+        "applicant": "Corona Design, LLC",
+        "owner": "Apolis Medical, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review – Conditional Use Permit",
+        "description": "The applicant is proposing to establish a banquet facility on the third floor of an existing office building. All banquet related activities would occur during the off peak hours of the offices located on the first and second floor. No alterations to the exterior of the building are proposed at this time. This project requires approval of a conditional use permit.",
+        "date_accepted": "12/18/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2024/",
+    "kind": "monthly",
+    "period_label": "december-2024",
+    "local_path": "data/raw/santaana/december-2024.pdf",
+    "title": "Accepted Development Projects, December 2024",
+    "rows": [
+      {
+        "project_name": "Evntfull Space - Banquet Facility",
+        "address": "320 W Fifth St",
+        "district": "5",
+        "applicant": "Evntfull Space – Chachmoni Macon",
+        "owner": "Broadway Improvement Co.",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is proposing to establish a banquet facility that would provide event space for small-scale gatherings and celebrations. Interior improvements to modify the existing restaurant and build out the banquet facility would be done as part of this project. The request would require Planning Commission approval of a conditional use permit.",
+        "date_accepted": "12/09/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Think Together - Residential Development",
+        "address": "2101 E Fourth St",
+        "district": "3",
+        "applicant": "Think Together – Cristian Saunders",
+        "owner": "Think Together",
+        "status_raw": "",
+        "application_type": "Development Project Review for Site Plan Review",
+        "description": "Applicant and property owner, Think Together, is proposing to construct a new 7-story (82.58 feet) residential building with 270 units for rent. The proposed project includes 6,040 sq. ft. for amenity space, 541 parking spaces, 8,829 sq. ft. of non-residential/co-working space, 17,709.66 sq. ft. of private open space, and 13,504 sq. ft. of public open space. As proposed, the project requires administrative approval of a Development Project (DP) review application and discretionary approval by the Planning Commission for a Site Plan Review (SPR) to activate the MEMU overlay.",
+        "date_accepted": "12/09/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2025/",
+    "kind": "monthly",
+    "period_label": "december-2025",
+    "local_path": "data/raw/santaana/december-2025.pdf",
+    "title": "Accepted Development Projects, December 2025",
+    "rows": [
+      {
+        "project_name": "New Hotel and Restaurant Building",
+        "address": "1416 S. Bristol Street",
+        "district": "2",
+        "applicant": "Henry Mai",
+        "owner": "Bristol Food Court Plaza LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is proposing to construct a two story 17,035 sq. ft. commercial building that will include 4 units intended for restaurant uses, 20 hotel rooms, a terrace with a barbecue. Additionally, the project is proposing 46 parking spaces and landscaped setbacks. As proposed, the project requires a development project application and a conditional use permit (Section 41-424.5(a) of the SAMC) review and approval by the Planning Commission.",
+        "date_accepted": "12/15/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2023/",
+    "kind": "monthly",
+    "period_label": "february-2023",
+    "local_path": "data/raw/santaana/february-2023.pdf",
+    "title": "Accepted Development Projects, February 2023",
+    "rows": [
+      {
+        "project_name": "Bella Terra Residential Community and Template",
+        "address": "4006-4018 W. Hazard Avenue",
+        "district": "1",
+        "applicant": "Long Nguyen",
+        "owner": "Long Van Nguyen",
+        "status_raw": "",
+        "application_type": "Development Project Review for Specific Development Amendment and Tentative Tract Map",
+        "description": "The applicant is proposing to amend the Specific Development No. 53 (SD-53) to allow for the subdivision of the lot to construct 13 single-family homes and a religious temple.",
+        "date_accepted": "1/23/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Tom’s Jr. Development Project",
+        "address": "1430 E. Edinger Avenue.",
+        "district": "6",
+        "applicant": "Novum Architecture, Inc",
+        "owner": "Spiros Politis",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "The applicant is proposing interior and exterior improvements for the expansion of the existing restaurant. The improvements would include adding 12 sq. ft., a new drive through, and an outdoor patio.",
+        "date_accepted": "2/1/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Forty Martyrs Armenian Church Mid",
+        "address": "5311 W. McFadden Avenue",
+        "district": "1",
+        "applicant": "James Gartner",
+        "owner": "Rev. Fr. Karekin Bedourian",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "The applicant is proposing to expand the existing school by adding a new 4,960 sq. ft. building that would serve the elementary school and middle school and contain new class rooms.",
+        "date_accepted": "2/9/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Industrial Building Development Project",
+        "address": "3100 S. Harbor Boulevard",
+        "district": "1",
+        "applicant": "Dan Broder",
+        "owner": "Harbor Blvd Property LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to demolish the existing office buildings to construct a new 162,656 sq. ft. industrial building with 7,000 sq. ft. of office space.",
+        "date_accepted": "2/10/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Industrial Building Addition- Robinson Pharma, Inc.",
+        "address": "3501 W. Segerstrom Avenue",
+        "district": "1",
+        "applicant": "Tuong Nguyen",
+        "owner": "RP 3501 Segerstrom, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to construct a 19,504 sq. ft. addition to an existing industrial building (65,856 sq. ft.) located in a Light Industrial (M1) zone. The new building will be 85,993, sq. ft. in total.",
+        "date_accepted": "2/14/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Vista Charter School",
+        "address": "601 N. Fairview Street",
+        "district": "5",
+        "applicant": "Enrique Diaz",
+        "owner": "Vista Charter Schools",
+        "status_raw": "",
+        "application_type": "Development Project Review for Zone Change Amendment and Specific Development Amendment",
+        "description": "The applicant is proposing to convert the existing 5,837 sq. ft. industrial building into an administrative office building for Vista Charter School and include outdoor student play area on an adjacent lot. In addition, applicant is proposing to change the zoning of the property from Light Industrial (M1) to Specific Development No. 82 (SD-82).",
+        "date_accepted": "2/14/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2024/",
+    "kind": "monthly",
+    "period_label": "february-2024",
+    "local_path": "data/raw/santaana/february-2024.pdf",
+    "title": "Accepted Development Projects, February 2024",
+    "rows": [
+      {
+        "project_name": "30-Unit Townhome Development",
+        "address": "501 S Harbor Blvd Santa Ana, CA 92704",
+        "district": "1",
+        "applicant": "Ventus Group",
+        "owner": "Ing Wen Hwang, Ling Long Hwang, Ing Sei Hwang, and Hua Mei Hwan",
+        "status_raw": "",
+        "application_type": "Development Project Review for Site Plan Review",
+        "description": "The applicant is proposing to demolish the existing structure to facilitate the construction of a 30- unit townhome development on a 1.33-acre site. Each townhome will contain an attached two-car garage and will range in size from 3,908 sq. ft. to 4,265 sq. ft. As proposed, the project requires administrative approval of a Development Project Review (DP) application.",
+        "date_accepted": "02/21/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "360 Adult Day Care Center Expansion",
+        "address": "1800 N Bush Street Santa Ana, CA 92706",
+        "district": "3",
+        "applicant": "Christina Meshreky",
+        "owner": "DNJ C. Properties, LLC",
+        "status_raw": "",
+        "application_type": "Development for a Conditional Use Permit",
+        "description": "The applicant is proposing to increase the number of participants at an existing adult day care facility (360 Adult Day Care Center) from 40 participants to 200 participants. The project was originally entitled in 2019 under Conditional Use Permit (CUP) No. 2019-09 and Variance (VAR) No. 2019-02 which allowed for 40 participants and a 27 percent parking reduction. Following establishing occupancy of the use and operating for several years without parking impacts or anticipated increase of drivers, the applicant is now seeking to increase the number of participants. As proposed, the project requires approval of a CUP amendment by the Planning Commission to allow an increase in participants.",
+        "date_accepted": "02/23/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2025/",
+    "kind": "monthly",
+    "period_label": "february-2025",
+    "local_path": "data/raw/santaana/february-2025.pdf",
+    "title": "Accepted Development Projects, February 2025",
+    "rows": [
+      {
+        "project_name": "Summit College",
+        "address": "1639 E Edinger Avenue",
+        "district": "6",
+        "applicant": "Chase Arthur",
+        "owner": "Summit College",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant proposes to expand trade school use (Summit College) into existing units B and C for additional classroom, lab, and administrative offices (11, 600 sq. ft.). The scope of work includes interior tenant improvements and site improvements. No physical expansion or exterior building modifications are proposed. The proposal requires modification of a conditional use permit (CUP).",
+        "date_accepted": "02/04/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Lifeline EMS and trade school",
+        "address": "601 N Golden Circle Drive",
+        "district": "3",
+        "applicant": "Lifeline EMS",
+        "owner": "Anillo De Oro, LP Attn. Rochelle Mills",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant seeking change of use of existing office building for Lifeline EMS ambulance service and trade school at 601 N. Golden Circle. The scope of work includes new fencing, landscaping, and tenant improvements. The project is discretionary and requires approval of a conditional use permit (CUP).",
+        "date_accepted": "02/18/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Stafford Residential Development",
+        "address": "1016 E Stafford Street",
+        "district": "6",
+        "applicant": "Jose Perez",
+        "owner": "Jose Perez",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Site Plan Review and Density Bonus Agreement",
+        "description": "Applicant is proposing to demolish an existing storage yard to allow the construction of eight (8) new townhouses consisting of a two-car garage on the 1st floor; dining room, living room, kitchen, and powder room on the 2nd floor; and three bedrooms, and two",
+        "date_accepted": "02/24/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-february-2026/",
+    "kind": "monthly",
+    "period_label": "february-2026",
+    "local_path": "data/raw/santaana/february-2026.pdf",
+    "title": "Accepted Development Projects, February 2026",
+    "rows": [
+      {
+        "project_name": "MainPlace Mall Culinary District",
+        "address": "2800 N. Main Street",
+        "district": "3",
+        "applicant": "Lowe – David Sonderegger",
+        "owner": "MainPlace Shoppingtown, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "Applicant is proposing to a Culinary District consisting of 17,000 sq. ft. of restaurant/retail space, 4,500 sq. ft. of patio cover/outdoor dining area, and outdoor public open space.",
+        "date_accepted": "2/3/2026",
+        "source_link": ""
+      },
+      {
+        "project_name": "OC Curling Club",
+        "address": "1305 W. Wakeham Avenue",
+        "district": "2",
+        "applicant": "Orange County Curling Club",
+        "owner": "James B. Hodges Trust",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is proposing an indoor sports facility use (curling club) in an existing warehouse located in the Light Industrial (M- 1) zoning district. As part of the project the applicant is requesting approval of an ancillary Type-41 Alcoholic Beverage Control (ABC) license to allow the on-premise sale of beer and wine.",
+        "date_accepted": "2/3/2026",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2023/",
+    "kind": "monthly",
+    "period_label": "january-2023",
+    "local_path": "data/raw/santaana/january-2023.pdf",
+    "title": "Accepted Development Projects, January 2023",
+    "rows": [
+      {
+        "project_name": "New Drive-Thru Starbucks",
+        "address": "2235 S. Bristol Street",
+        "district": "6",
+        "applicant": "Amir Houriani",
+        "owner": "Santana Green Development, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "The applicant is proposing to construct a new 1,200 sq. ft. Starbucks drive-through with window service only. The project is discretionary and requires approval of a Conditional Use Permit (CUP) for the proposed drive-through lane.",
+        "date_accepted": "01/19/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Anchor Stone Christian Church",
+        "address": "2938 S. Daimler Street",
+        "district": "4",
+        "applicant": "Steven Lee",
+        "owner": "Anchor Stone Christian Church",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "The applicant is proposing a change of occupancy in an existing 3,843 sq. ft. office building for a church use. The church's hours of operation will be Monday to Friday from 9 a.m. to 5 p.m., Saturday from 10 a.m. to 7 p.m., and Sunday from 9 a.m. to 4 p.m. Additionally, the applicant is proposing to hold mass on special holidays and bible school for one (1) week during the summer. The project is discretionary and requires approval of a Conditional Use Permit (CUP) for the proposed church use.",
+        "date_accepted": "01/23/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2024/",
+    "kind": "monthly",
+    "period_label": "january-2024",
+    "local_path": "data/raw/santaana/january-2024.pdf",
+    "title": "Accepted Development Projects, January 2024",
+    "rows": [
+      {
+        "project_name": "Sullivan Street Subdivision",
+        "address": "803 S. Sullivan St. Santa Ana CA 92704",
+        "district": "5",
+        "applicant": "Midway Concepts (Earnest Little)",
+        "owner": "Thais New Land, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for Tentative Parcel Map",
+        "description": "The applicant is requesting approval of a tentative parcel map to demolish existing two (2) single-family residences and subdivide an existing 1.45-acre (63,162 sq. ft.) lot into four (4) single-family lots, each resulting lot will be 0.36-acres (15,850 sq. ft.) in size. On each resulting lot, a new 2-story, single-family residence (4,572 sq. ft.) and a detached ADU (1,000 square foot) with an attached garage (420 sq. ft.) is proposed. Discretionary review and approval of a Tentative Parcel Map is be required.",
+        "date_accepted": "01/18/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2025/",
+    "kind": "monthly",
+    "period_label": "january-2025",
+    "local_path": "data/raw/santaana/january-2025.pdf",
+    "title": "Accepted Development Projects, January 2025",
+    "rows": [
+      {
+        "project_name": "Infinite Arch LLC Residential Development",
+        "address": "4615 W McFadden Ave",
+        "district": "1",
+        "applicant": "Infinite Arch LLC",
+        "owner": "Hung Thien Chau",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "Applicant is proposing to construct five new, two-story residential units. The quadplex proposed in the front will contain four units that will be 1,858 sq. ft. each, with three bedrooms, three bathrooms, one car garage, kitchen, and common area. The fifth unit in the rear will total 2,138 sq. ft. and it will be composed of three bedrooms, three bathrooms, a two-car garage, a kitchen, and common space. Lastly, the applicant is proposing to construct a detached 792 sq. ft. ADU in the backyard. The project requires administrative approval of the Development Project (DP) review.",
+        "date_accepted": "01/16/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "New Mono Pine",
+        "address": "1212 S Bristol St",
+        "district": "2",
+        "applicant": "Smartlink",
+        "owner": "Allen T. Brown",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant proposing to construct a 60-foot high mono-pine wireless facility located in the rear of a commercial center. Project also includes the installation of a new CMU block enclosure and installation of a new pine 24\" tree. Project is discretionary as it requires a Conditional Use Permit to allow the construction of a new major wireless facility.",
+        "date_accepted": "01/27/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-january-2026/",
+    "kind": "monthly",
+    "period_label": "january-2026",
+    "local_path": "data/raw/santaana/january-2026.pdf",
+    "title": "Accepted Development Projects, January 2026",
+    "rows": [
+      {
+        "project_name": "Wellington/Lacy Condo Conversion",
+        "address": "1102 N. Lacy Street",
+        "district": "6",
+        "applicant": "Habitat for Humanity of OC",
+        "owner": "Habitat for Humanity of OC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Tract Map",
+        "description": "Applicant is proposing to convert nine rental apartment units into for-sale condominium units. The property is listed as a contributor to the French Park Historic District. The project is discretionary as proposed as it requires the Planning Commission review and approval of a Tentative Tract Map.",
+        "date_accepted": "1/6/2026",
+        "source_link": ""
+      },
+      {
+        "project_name": "The Residences at South Bristol",
+        "address": "2402 S Bristol Street",
+        "district": "4",
+        "applicant": "Michael Johnston on Behalf of KTGY",
+        "owner": "KF Future LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Density Bonus Application and a Vesting Tentative Tract Map",
+        "description": "Applicant is proposing to demolish an existing car wash and construct 66 new for- sale residential units (reserving 5% of the units or 4 units to be deed-restrictive affordable housing for very-low income households). The units will range from 1,617 sf to 1,881 sf and consist of 3-4 bedrooms each. Proposal also include the construction of new paseo areas, common open areas, sidewalks, and private drive aisles.",
+        "date_accepted": "1/6/2026",
+        "source_link": ""
+      },
+      {
+        "project_name": "New Duplex with two ADUS",
+        "address": "339 E Adams Street",
+        "district": "6",
+        "applicant": "Mustafa Bdawiwi",
+        "owner": "John Arellano",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Variance",
+        "description": "Applicant is proposing to construct a 4,129 sq. ft. duplex and 1,919 (2 ADUs) sq. ft. detached ADUs for a total of four new units. In total the new floor area (duplexes and ADUs and garages) will be 6,561 sq. ft. Duplex A will consist of two bedrooms and three bathrooms, Duplex B will be two bedrooms and two and a half bathrooms, the two rear ADUs will consist of two bedrooms and one bathroom. Two two-car garages are proposed. The project requires a variance due to street frontage being less than the 75 feet required.",
+        "date_accepted": "1/12/2026",
+        "source_link": ""
+      },
+      {
+        "project_name": "Warmington Residential",
+        "address": "1350 and 1450 N Tustin Avenue",
+        "district": "3",
+        "applicant": "Warmington Residential Group",
+        "owner": "William Richard Nisson",
+        "status_raw": "",
+        "application_type": "Development Project Review for Rezone and for a General Plan Amendment",
+        "description": "Applicant is proposing to re-zone the existing parcel in order to allow the construction of a mixed-use development that will allow the construction of 77 for-sale residential town homes and approximately 10,500 sq. ft. of ground floor commercial fronting Tustin Avenue (including: retail, service use, and office land uses). As part of the project, the applicant is proposing eight affordable units at the moderate-income level. As proposed the project requires City Council review and approval of a Vesting Tentative Tract Map to allow a lot subdivision, an Amendment Application to re-zone the property, and a General Plan Amendment application to amend the General Plan land use designation.",
+        "date_accepted": "1/15/2026",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2022/",
+    "kind": "monthly",
+    "period_label": "july-2022",
+    "local_path": "data/raw/santaana/july-2022.pdf",
+    "title": "Accepted Development Projects, July 2022",
+    "rows": [
+      {
+        "project_name": "210 W. 19th Development",
+        "address": "210 W. 19th Street",
+        "district": "3",
+        "applicant": "Arnaud Ancenay",
+        "owner": "Newport Quail International Group LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to construct a 3,300 sq. f.t professional office building on a currently vacant site. The project would require a minor exception for the parking configuration and Planning Commission approval of a variance for a reduction in required landscaping.",
+        "date_accepted": "7/14/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "New Service Station",
+        "address": "2702 N. Bristol Street",
+        "district": "3",
+        "applicant": "Mahesh Patel",
+        "owner": "Bhaktinandan LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review and Variance Application",
+        "description": "The applicant is proposing to construct a new 1,800 sq. ft. convenience store and 6 multi- product gasoline dispensers with a 3,163 sq. ft. canopy. Underground tanks, trash enclosure, parking, and landscape are proposed as part of the project. The project will require development project approval and Planning Commission approval for a variance for a reduction in required landscaping.",
+        "date_accepted": "7/15/2022",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2023/",
+    "kind": "monthly",
+    "period_label": "july-2023",
+    "local_path": "data/raw/santaana/july-2023.pdf",
+    "title": "Accepted Development Projects, July 2023",
+    "rows": [
+      {
+        "project_name": "2525 N. Main Street – Housing Development",
+        "address": "2525 N. Main Street",
+        "district": "3",
+        "applicant": "Chris Lee",
+        "owner": "Chris Lee, AC 2525 Main, LLC.",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is requesting approval of various entitlement applications to facilitate the construction of a 7-story mixed-income, multi-family housing development consisting of 498 apartment units, 648 on-site parking spaces, amenities, and private open space.",
+        "date_accepted": "7/10/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Alta Med Dental Office for Kids",
+        "address": "3601 W. Sunflower Avenue",
+        "district": "1",
+        "applicant": "Hattox Design Group",
+        "owner": "Alta Med Health Services Corporation",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "The applicant is proposing a change of use from office to medical office for children with special needs. The proposed tenant is Health Smile Kids (HSK), a specialty pediatric dental practice, and they are affiliated with CHOC and Alta-Med. Per Section 41-313.5, medical offices operated by government, government subsidized, or non-profit, require Planning Commission approval of a Conditional Use Permit (CUP).",
+        "date_accepted": "7/11/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Park 55 Development",
+        "address": "1221 E. Dyer Road",
+        "district": "6",
+        "applicant": "Greenlaw Partners, LLC.",
+        "owner": "Greenlaw Partners, LLC.",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to demolish two industrial buildings to accommodate three new industrial buildings with new parking, landscaping, and onsite improvements. Building one will be 69,300 sq. ft., building two will be 47,300 sq. ft., and building three will be 59,400 sq. ft. This project requires discretionary review and approval by the Planning Commission and City Council for a Zoning Ordinance Amendment (ZOA) to amend Specific Development 63 (SD-63) and will be",
+        "date_accepted": "7/14/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2024/",
+    "kind": "monthly",
+    "period_label": "july-2024",
+    "local_path": "data/raw/santaana/july-2024.pdf",
+    "title": "Accepted Development Projects, July 2024",
+    "rows": [
+      {
+        "project_name": "Meritage Homes – Mixed-Use Development",
+        "address": "2020 E First Street",
+        "district": "3",
+        "applicant": "Rich McEvoy",
+        "owner": "Rich McEvoy",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Mixed-Use Development",
+        "description": "Conceptual (“First Look”) Review application for a mixed-use residential community containing 80 three-story for-sale attached townhomes and six four-story live/work units (86 total units) on a 3.72 gross acre site (3.67 net) for a net density of 23.4 du/ac. Each townhome includes a two-car garage and the community includes an additional 22 guest spaces for a ratio of 2.25 spaces per unit. Additionally, the development proposes a new public plaza \"Front\" along East First Street, providing community connections to the adjacent apartments to the east.",
+        "date_accepted": "07/02/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "HeyTea LLC.",
+        "address": "1921 N Tustin Avenue",
+        "district": "3",
+        "applicant": "Raymond Adame",
+        "owner": "Raymond Adame",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Change of Use",
+        "description": "Applicant is proposing to convert an existing salon building (5,779 sq. ft.) into two (2) units for an office/training center (4,169 sq. ft.) and an eating establishment (1,610 sq. ft.) on the interior of an existing commercial building located in a C1 zone. As proposed, the project is non-discretionary.",
+        "date_accepted": "07/03/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2025/",
+    "kind": "monthly",
+    "period_label": "july-2025",
+    "local_path": "data/raw/santaana/july-2025.pdf",
+    "title": "Accepted Development Projects, July 2025",
+    "rows": [
+      {
+        "project_name": "2100 W. Alton Avenue Residential Development",
+        "address": "2100 W. Alton Avenue",
+        "district": "4",
+        "applicant": "Warmington Residential",
+        "owner": "BDC Santa Ana LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Density Bonus Agreement",
+        "description": "Applicant is proposing to construct 36 single-family-homes on two existing legal lots (412-541-06; 412- 541-10) that are approximately 2.48 acres in size. The project is for-sale and it is proposing three units as affordable to very low income and three units affordable to moderate income. The application is being submitted as an SB 330 project and seeks waivers and concessions through a Density Bonus Agreement application. The project requires a vesting tentative tract map and a State Density Bonus Agreement to allow 14.52 dwelling units per acre.",
+        "date_accepted": "7/10/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Wireless Facility Renewal",
+        "address": "1200 E. Glenwood Place",
+        "district": "6",
+        "applicant": "American Tower Corporation",
+        "owner": "Corman Kenneth A TR/ Corman Revoc Living TR",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is requesting approval of a conditional use permit to renew the entitlement of an existing wireless facility tower (59.7 feet tall) screened as a eucalyptus tree.",
+        "date_accepted": "7/21/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Verizon Wireless Facility Renewal",
+        "address": "2624 S. Hickory Street",
+        "district": "6",
+        "applicant": "American Tower Corporation",
+        "owner": "Greedy Family LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is requesting approval of a conditional use permit to renew the entitlement of an existing mono- pine wireless facility that is approximately 60 feet tall for Verizon Wireless.",
+        "date_accepted": "7/21/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2022/",
+    "kind": "monthly",
+    "period_label": "june-2022",
+    "local_path": "data/raw/santaana/june-2022.pdf",
+    "title": "Accepted Development Projects, June 2022",
+    "rows": [
+      {
+        "project_name": "Lion Arts Tower Residential Adaptive Reuse",
+        "address": "811 N. Broadway",
+        "district": "5",
+        "applicant": "William Beaubeaux",
+        "owner": "811 Broadway LLC",
+        "status_raw": "",
+        "application_type": "Development Project Application",
+        "description": "Applicant proposes to convert an existing 6- story office building into 40-unit apartment homes. The project will consist of commercial use on the ground floor and residential use above. The proposed parking will be adjacent to the building and all other required parking will be provided at parking structure adjacent to the building. The project is non- discretionary.",
+        "date_accepted": "6/1/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "Mainspot Change of Use",
+        "address": "618 N. Main St.",
+        "district": "5",
+        "applicant": "Richard Herman",
+        "owner": "Oxford Main St LCC",
+        "status_raw": "",
+        "application_type": "Development Project Application and Conditional Use Permit",
+        "description": "Applicant proposes to covert the first floor (3,645 sq.ft.) of an existing commercial building into an eating establishment serving alcohol (2,030 sq.ft.) and a delicatessen (1,615 sq. ft.). The project will require administrative approval for the development review project (DP) and the Planning Commission approval for a conditional use permit (CUP) to serve alcohol.",
+        "date_accepted": "6/21/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "Grand and Grovemont Townhomes",
+        "address": "2525 N. Grand Ave.",
+        "district": "3",
+        "applicant": "Eric Higuchi",
+        "owner": "Grand Avenue Plaza LCC",
+        "status_raw": "",
+        "application_type": "Development Project Application and Subdivision Application",
+        "description": "Applicant, Eric Higuchi, proposes an SB 330 application for the Grand Avenue Plaza, to develop a new residential development consisting of 80 three-story townhouse units, with 24,526 square feet of common open space, 180 parking spaces, and onsite improvements. An approval of a development project and a subdivision will ultimately be required. The project is discretionary.",
+        "date_accepted": "6/20/2022",
+        "source_link": ""
+      },
+      {
+        "project_name": "Dinh New Furniture Store",
+        "address": "118 N. Euclid St.",
+        "district": "1",
+        "applicant": "David Nguyen",
+        "owner": "Charlie Ly Dinh",
+        "status_raw": "",
+        "application_type": "Development Project Application and Variance Application",
+        "description": "Applicant, David Nguyen, proposes to construct a new two-story, 2,067 square feet appliance/furniture store. This project will require administrative approval, and planning commission approval of a variance to deviate from lot size and lot frontage requirements.",
+        "date_accepted": "6/23/2022",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2023/",
+    "kind": "monthly",
+    "period_label": "june-2023",
+    "local_path": "data/raw/santaana/june-2023.pdf",
+    "title": "Accepted Development Projects, June 2023",
+    "rows": [
+      {
+        "project_name": "Raising Cane’s",
+        "address": "1303 N. Bristol Street",
+        "district": "5",
+        "applicant": "Raising Cane’s Chicken Fingers",
+        "owner": "Charles H. Manh",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "The applicant is proposing to construct a new 2,899 sq. ft. commercial building that would serve a Raising Cane’s, an eating establishment with double drive through lanes. The project requires approval of a conditional use permit for the drive through and after-hours operation (between 12:00am and 6:00am) within 150 ft. of residentially used or zoned properties.",
+        "date_accepted": "6/6/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Wireless Facility Renewal",
+        "address": "1200 E. Glenwood Place",
+        "district": "6",
+        "applicant": "Janicy Canales",
+        "owner": "Kenneth A. Corman",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "The applicant is proposing to renew a CUP for an existing wireless facility. The wireless facility will be 60 ft. in height and disguised as a eucalyptus tower. This project is discretionary.",
+        "date_accepted": "6/12/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "IDS Real Estate Industrial Building",
+        "address": "300-324 E. Dyer Road",
+        "district": "4",
+        "applicant": "IDS Real Estate Group",
+        "owner": "Dyer Industrial, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to demolish five existing industrial buildings in order to construct one new industrial building approximately 97,398 sq. ft. in size to include 95 parking stalls and site/landscape improvements. As proposed, the project is administrative and requires DRC approval.",
+        "date_accepted": "6/14/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2024/",
+    "kind": "monthly",
+    "period_label": "june-2024",
+    "local_path": "data/raw/santaana/june-2024.pdf",
+    "title": "Accepted Development Projects, June 2024",
+    "rows": [
+      {
+        "project_name": "Watermarke Sandpointe",
+        "address": "200 E Sandpointe Avenue",
+        "district": "4",
+        "applicant": "Jonny Schneider",
+        "owner": "East Sandpointe LLC.",
+        "status_raw": "",
+        "application_type": "Development Project Review for SB330",
+        "description": "The applicant proposes to construct a 5-story residential development with 401 rental units, a wrap 7-level garage structure, a surface parking lot, and landscaping. The proposed project will be developed in two phases; Phase I consisting of the construction on the surface parking area, and Phase II consisting of the demolition of the office building and construction of the residential building and parking structure. The project is a SB330 project and requires an Inclusionary Housing Plan.",
+        "date_accepted": "06/19/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2025/",
+    "kind": "monthly",
+    "period_label": "june-2025",
+    "local_path": "data/raw/santaana/june-2025.pdf",
+    "title": "Accepted Development Projects, June 2025",
+    "rows": [
+      {
+        "project_name": "1st and Mountain View – 60 Townhomes",
+        "address": "4320 W. First Street",
+        "district": "1",
+        "applicant": "Storm Properties, Inc",
+        "owner": "Santa Ana, MV, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Tract Map and Density Bonus Agreement",
+        "description": "Applicant is proposing to construct 60 three-story for sale townhome units (includes 6 live/work) on a 3.266-acre site consisting of two lots. Each unit would have an attached two car garage with a combination of tandem and side by side parking and private decks/patios. Three (3) units (5%) would be restricted for very low- income households. The project is discretionary and requires Planning Commission approval for tentative tract map (No. 19391) and density bonus concession and waivers. An Inclusionary Housing application and SB 330 application were submitted as part of this submittal.",
+        "date_accepted": "06/03/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Service Station",
+        "address": "2702 N. Bristol Street",
+        "district": "3",
+        "applicant": "A&S Engineering",
+        "owner": "Bhaktinandan LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is proposing to construct a new service station with eight fuel pumps, a canopy, and a 1,800 sq. ft. convenience store. As proposed the project will require a Development Project review application and the approval of a conditional use permit to allow a noxious use.",
+        "date_accepted": "06/05/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "One Broadway Plaza Mixed-Use Tower",
+        "address": "1109 N. Broadway",
+        "district": "5",
+        "applicant": "Michael Harrah",
+        "owner": "One Broadway Plaza, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for Zone Text Amendment",
+        "description": "Applicant is requesting zoning text amendments to SD-75 to revise permitted improvements, permitted uses, and development standards, including: adjusting residential unit mix requirements and increasing maximum residential allowed; reducing the minimum required commercial office area and allowing other commercial uses to satisfy this minimum; reducing parking ratio requirements and modifying minimum parking allocations; modifying elevation design standards; removing the plaza design review process; modifying permitted improvements; and converting all conditional uses to by-right uses.",
+        "date_accepted": "06/18/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "First Street Townhomes (36 Units)",
+        "address": "2001 E. First Street",
+        "district": "3",
+        "applicant": "SCA Development Serv.",
+        "owner": "The Chase Family Trust 4-23 / 1998",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Tract Map and Density Bonus Agreement",
+        "description": "Applicant is proposing to demolish an existing two-story office building and construct 36 for-sale townhouse units in seven (7) buildings and 80 parking spaces. The three-story development proposes 10% affordable units at the moderate-income level and four (4) live-work units along North Golden Circle Drive. The application is submitted as an SB 330 project and seeks waivers and an incentive/concession. The project requires a vesting tentative tract map for condominium purposes and a State Density Bonus Agreement.",
+        "date_accepted": "06/30/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2023/",
+    "kind": "monthly",
+    "period_label": "march-2023",
+    "local_path": "data/raw/santaana/march-2023.pdf",
+    "title": "Accepted Development Projects, March 2023",
+    "rows": [
+      {
+        "project_name": "Higbee & Associates Law Firm",
+        "address": "1504 Brookhollow Drive",
+        "district": "6",
+        "applicant": "Varisco Design Build Group",
+        "owner": "Matthew Kidman Higbee",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Tract Map",
+        "description": "The applicant is proposing to subdivide the existing 18,716 sq. ft., 8 office suites into for-sale condominium units. Additionally, interior tenant improvements are being proposed for ADA compliance. No additional square footage is being proposed as part of this application. Approval of a tentative tract map is required.",
+        "date_accepted": "3/06/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "First Church of Christ",
+        "address": "2112 N. Tustin Avenue",
+        "district": "3",
+        "applicant": "DSEA, Inc",
+        "owner": "FCB Tustin Ave, LLC.",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to occupy a 1,600 sq. ft. commercial tenant space as a religious institution. No additional square footage is being proposed as part of this application. Review and approval of the project is ministerial.",
+        "date_accepted": "3/21/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Adaptive Reuse",
+        "address": "1518 N. Broadway",
+        "district": "5",
+        "applicant": "George Youdeem",
+        "owner": "George Youdeem and 1DF72 Trust",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing an adaptive reuse project to convert an existing 2,060 sq. ft. commercial building into three new residential units. Unit 1 will consist of 580 sq. ft., Unit 2 will be 602 sq. ft., and Unit 3 will be 601 sq. ft. Review and approval of the project is ministerial.",
+        "date_accepted": "3/30/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2024/",
+    "kind": "monthly",
+    "period_label": "march-2024",
+    "local_path": "data/raw/santaana/march-2024.pdf",
+    "title": "Accepted Development Projects, March 2024",
+    "rows": [
+      {
+        "project_name": "Auto Mall Billboard",
+        "address": "1505 S. Auto Mall Drive",
+        "district": "6",
+        "applicant": "Rod Wilson",
+        "owner": "HSA, LLC.",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "The applicant is proposing to modify and covert an existing freeway- oriented on-premise digital sign into a digital billboard. Modifications include increasing the size of the LED screen to 1,159 sq. ft. and the height of the billboard to 80 feet. The project requires administrative approval of a Development Project (DP) application by staff, discretionary approval of a Conditional Use Permit (CU) by the Planning Commission, and approval of an Operating Agreement (OA) by the City Manager.",
+        "date_accepted": "03/04/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "New Duplex and Two Accessory Dwelling Units",
+        "address": "339 E. Adams Street",
+        "district": "6",
+        "applicant": "John C. Arellano",
+        "owner": "John C. Arellano",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Variance",
+        "description": "The applicant is proposing to construct a 5,195 sq. ft. duplex and two detached accessory dwelling units (ADUs) that total 1,973 sq. ft. for a total of four new units. The duplex floor plan will consist of three bedrooms and two bathrooms and the two detached ADUs will consist of two bedrooms and two and a half bathrooms. Additionally, the applicant is proposing to construct one two-car garage and one three- car garage. The project requires discretionary approval of a Variance (VAR) by the Planning Commission to allow a duplex on a site with 68.58'",
+        "date_accepted": "03/11/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2025/",
+    "kind": "monthly",
+    "period_label": "march-2025",
+    "local_path": "data/raw/santaana/march-2025.pdf",
+    "title": "Accepted Development Projects, March 2025",
+    "rows": [
+      {
+        "project_name": "The Open School",
+        "address": "2620 N Grand Avenue",
+        "district": "3",
+        "applicant": "Cassi Clausen",
+        "owner": "Open School of Orange County Corporation",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "Applicant is proposing to establish a school a K - 12 school at the subject property previously utilized as residential. The site is developed with 3 buildings (740 sq. ft., 364 sq. ft., 1,285 sq. ft.) as part of this process the units would be converted into class rooms and offices. The site would accommodate 6 parking stalls. The project is administrative and does not require discretionary approval.",
+        "date_accepted": "03/10/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "1200 N Main Adaptive Reuse Project",
+        "address": "1200 N Main Street",
+        "district": "5",
+        "applicant": "Commercial Marketplace, LLC",
+        "owner": "Commercial Marketplace LLC and Top Universe LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "Applicant is proposing an Adaptive Reuse Project to convert an existing 9-story, 225,877-square-foot commercial office building into a mixed-use residential project with 184 residential units, including six live-work units, 2,394 sq. ft. of ground floor commercial/retail uses, 1,561 sq. ft. leasing office, and a 2,231 sq. ft. amenity area. As proposed, the request would require administrative review and approval of a development project application.",
+        "date_accepted": "03/18/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "New Vision Fellowship Church",
+        "address": "1800 E 16th Street",
+        "district": "3",
+        "applicant": "New Vision Fellowship Church",
+        "owner": "JFK Transportation Inc, The Sheepfold Inc, Catholic Charities of Orange County, JFernandez Properties LLC, and Richard Russel Barbarino",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is proposing to convert the existing office buildings located at 1800 E. 16th Street (APN: 400- 011-25) into a religious institution. The scope of work includes tenant improvements to demolish interior walls to allow an auditorium with 154 fixed seats, a 478 sq. ft. lobby, 755 sq. ft. hall, restrooms, storage, classrooms, meeting rooms, and office spaces. The site is located in the Community Commercial (C1) and Single-Family Residence (R1) zoning districts and requires discretionary approval of a conditional use permit to allow the church use in the R1 zoning.",
+        "date_accepted": "03/25/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-march-2026/",
+    "kind": "monthly",
+    "period_label": "march-2026",
+    "local_path": "data/raw/santaana/march-2026.pdf",
+    "title": "Accepted Development Projects, March 2026",
+    "rows": [
+      {
+        "project_name": "Mixed-Use Residential and Office Development",
+        "address": "",
+        "district": "",
+        "applicant": "Corona Design, LLC.",
+        "owner": "Robert Moreno",
+        "status_raw": "",
+        "application_type": "",
+        "description": "Construct a mixed-use building consisting of five ground-floor commercial units and two second- floor residential units.",
+        "date_accepted": "",
+        "source_link": ""
+      },
+      {
+        "project_name": "Wireless CUP Renewal",
+        "address": "",
+        "district": "",
+        "applicant": "Verizon Wireless c/o NuWave Communications, Inc. (Elaine Rodriguez)",
+        "owner": "Deanda Imports, LLC",
+        "status_raw": "",
+        "application_type": "",
+        "description": "Renew the conditional use permit for a the 60-foot tall monoeucalyptus wireless communications facility and make minor modifications to the facility.",
+        "date_accepted": "",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-may-2023/",
+    "kind": "monthly",
+    "period_label": "may-2023",
+    "local_path": "data/raw/santaana/may-2023.pdf",
+    "title": "Accepted Development Projects, May 2023",
+    "rows": [
+      {
+        "project_name": "Lot Line Adjustment",
+        "address": "666 S. Harbor Boulevard",
+        "district": "1",
+        "applicant": "Harbor Place Shopping Center, LLC.",
+        "owner": "Harbor Place Shopping Center, LLC.",
+        "status_raw": "",
+        "application_type": "Development Project Review for Lot Line Adjustment",
+        "description": "The applicant is requesting approval of a lot line adjustment. The proposed project will be composed of two parcels. Parcel A will be 2.34 acres and proposed Parcel B will be 0.6 acres. This project is ministerial.",
+        "date_accepted": "5/10/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-may-2025/",
+    "kind": "monthly",
+    "period_label": "may-2025",
+    "local_path": "data/raw/santaana/may-2025.pdf",
+    "title": "Accepted Development Projects, May 2025",
+    "rows": [
+      {
+        "project_name": "Lot Split",
+        "address": "3609 W. Camille Street",
+        "district": "1",
+        "applicant": "HM Homes, Inc",
+        "owner": "HM Homes, Inc",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Parcel Map",
+        "description": "Applicant is proposing to subdivide a 14,100 square foot lot into two separate parcels. Parcel 1 will result in a 6,800 sq. ft. lot with 113.17 linear feet of street frontage and will contain a 1,663 sq. ft. single family residence. Parcel 2 will result in a 7,214.5 sq. ft. lot with 60 linear feet of street frontage will contain an 835 sq. ft. single family residence. This project is discretionary as it requires the Zoning Administrator approval of a tentative parcel map.",
+        "date_accepted": "05/12/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Fairhaven Memorial Park",
+        "address": "1701 E. Fairhaven Avenue",
+        "district": "3",
+        "applicant": "Landmark Control Services, Inc",
+        "owner": "SCI California Funeral Services DBA Fairhaven Memorial Park",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant proposing to construct a new 2,060 sq. ft. cast in place mausoleum structure with a 261 sq. ft. interior room for urns. The remainder of the building serves as sealed storage for caskets and urns. This project will require discretionary approval for modification to a Conditional Use Permit.",
+        "date_accepted": "05/28/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2022/",
+    "kind": "monthly",
+    "period_label": "november-2022",
+    "local_path": "data/raw/santaana/november-2022.pdf",
+    "title": "Accepted Development Projects, November 2022",
+    "rows": [
+      {
+        "project_name": "Bristol Office Plaza",
+        "address": "1400 W. St Gertrude Place",
+        "district": "4",
+        "applicant": "Frank Kashkouli",
+        "owner": "Shayan Safai",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to construct a new commercial development on a vacant site. The project consists of one single-story commercial building totaling 7,000 square feet, surface parking, and landscape/open space area. The commercial building would be used for professional/medical offices and include a pharmacy. Review and approval of the project is ministerial.",
+        "date_accepted": "11/16/22",
+        "source_link": ""
+      },
+      {
+        "project_name": "Better Buzz Coffee",
+        "address": "1601 N. Bristol Street",
+        "district": "5",
+        "applicant": "Amir Houriani",
+        "owner": "Bristol Center Properties LLC",
+        "status_raw": "",
+        "application_type": "Development Project for a Lot Line Adjustment and a Conditional Use Permit",
+        "description": "The applicant is proposing to construct a new 1,625-square foot building for a café business with a drive-through lane and outdoor dining. The project is discretionary and requires approval of a conditional use permit for the proposed drive- through lane, as well as administrative approval of a lot merger to join both properties into one.",
+        "date_accepted": "11/09/22",
+        "source_link": ""
+      },
+      {
+        "project_name": "Campus Green – OCSA",
+        "address": "1000 N. Main Street",
+        "district": "5",
+        "applicant": "Steve Phillips",
+        "owner": "The Legacy Fund",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to repurpose an existing parking lot into a “Campus Green” and enclose the ground level area (1,372 sq. ft.). Parking lot re- purposing will include replacing existing surface with artificial turf, decomposed granite, 5 retrofitted shipping containers for seating area, 1 shipping container for a coffee shop, 1 grand staircase, 1 large sculptural shade structure, 6 sculptural shade discs, assorted trees, assorted benches, concrete pathways, and a new perimeter fence. Review and approval of the project is ministerial.",
+        "date_accepted": "11/07/22",
+        "source_link": ""
+      },
+      {
+        "project_name": "MainPlace Billboard",
+        "address": "2800 N. Main Street",
+        "district": "3",
+        "applicant": "Dana Privitt",
+        "owner": "Oliver Robinson",
+        "status_raw": "",
+        "application_type": "Development Project for a Conditional Use Permit",
+        "description": "The applicant is proposing to remove two existing free-standing static illuminated pylon signs, 70' height by 48' display width and 80' height by display width 48' utilized for on-site identification and tenant identification. They will be replaced with two free-standing digital LED display pylon signs, 70' height by display width 48' and 80' height by display 48' to be utilized to include off-site",
+        "date_accepted": "11/08/22",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2023/",
+    "kind": "monthly",
+    "period_label": "november-2023",
+    "local_path": "data/raw/santaana/november-2023.pdf",
+    "title": "Accepted Development Projects, November 2023",
+    "rows": [
+      {
+        "project_name": "Goldfish Swim School",
+        "address": "3357 South Bristol Street",
+        "district": "4",
+        "applicant": "SWIMERGY4 LLC",
+        "owner": "EXCEL REALTY PARTNERS LP",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing a change of use of an existing 8,700 sq. ft. commercial building from a retail store to a new swim school. The proposed use will be a swimming school for children between the ages of 4 months and 12 years old and will be classified as a gymnasium. The proposed use is allowed by right within the Community Commercial (C1) zoning district. The project as proposed is administrative and would not require any discretionary action at this time.",
+        "date_accepted": "11/20/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "First Street LLC",
+        "address": "2020 East First Street",
+        "district": "3",
+        "applicant": "Steve Hong",
+        "owner": "First Street LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to establish a new surplus parking lot that would serve an auto mobile sales business off site. The lot would also serve as equipment storage. The site would have a capacity of 366 parking stalls and 11 visitor parking stalls. As part of the project, the applicant would demolish the existing 118,192 sq. ft. office building. The project as proposed is administrative and would not require any discretionary action at this time.",
+        "date_accepted": "11/29/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2024/",
+    "kind": "monthly",
+    "period_label": "november-2024",
+    "local_path": "data/raw/santaana/november-2024.pdf",
+    "title": "Accepted Development Projects, November 2024",
+    "rows": [
+      {
+        "project_name": "Orange County Employees Retirement System (OCERS) Headquarters Building",
+        "address": "1200 N Tustin Ave",
+        "district": "3",
+        "applicant": "Selena Kelaher",
+        "owner": "Brenda Shott",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Minor Exception",
+        "description": "Applicant is proposing to demolish an existing office building to construct a new, 3-story 69,300 sq. ft. office building to serve as the OCERS headquarters. As proposed, this project is discretionary and requires approval of minor exceptions to allow a 20% (8.75 ft.) building height increase from 35 ft. to 43.75 feet, reduction in off-street parking requirement, and installation of a 6-foot tall perimeter fence.",
+        "date_accepted": "11/07/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Two Unit Development at Seventh Street",
+        "address": "3402 W Seventh St",
+        "district": "5",
+        "applicant": "Frank Le",
+        "owner": "Hue Van Vo",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "Applicant is proposing to construct two new units on a 18,750 sq. ft. lot with an existing 1,053 sq. ft. single-family residence. Each new unit is proposed to be a two-story 1,605 sq. ft., three-bedroom single-family residence, with an attached two-car garage. Additionally, the applicant proposes to construct a new two-car garage for the existing single-family residence. The proposed development is allowed by right and requires administrative approval.",
+        "date_accepted": "11/14/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2025/",
+    "kind": "monthly",
+    "period_label": "november-2025",
+    "local_path": "data/raw/santaana/november-2025.pdf",
+    "title": "Accepted Development Projects, November 2025",
+    "rows": [
+      {
+        "project_name": "SB 1123 Nine- Lot Subdivision",
+        "address": "2056 W. Civic Center Drive",
+        "district": "5",
+        "applicant": "Michael Hay",
+        "owner": "MHMH Property Holdings, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "Applicant is proposing an SB 1123 project for a 9-lot subdivision and 8 proposed single family dwelling units. As proposed the project is administrative and only requires approval of a development project application.",
+        "date_accepted": "11/03/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "New Four Unit Development",
+        "address": "5325 W. Silver Drive",
+        "district": "1",
+        "applicant": "Toby Nguyen",
+        "owner": "HPA Real Estates",
+        "status_raw": "",
+        "application_type": "Development Project Review for Density Bonus Agreement",
+        "description": "Applicant is proposing to construct four new residential units as two duplex buildings. The units will consist of four bedrooms, three bathrooms, living area, kitchen area, and 2-car garages. The plans include construction of a 2,048 sq. ft. living area, 81 sq. ft. of a porch area, and 431 sq. ft. of a two-car garage per unit. The project is discretionary as it requires approval of a Density Bonus Agreement to exceed the maximum density allowed and provide 1 affordable unit.",
+        "date_accepted": "11/20/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2022/",
+    "kind": "monthly",
+    "period_label": "october-2022",
+    "local_path": "data/raw/santaana/october-2022.pdf",
+    "title": "Accepted Development Projects, October 2022",
+    "rows": [
+      {
+        "project_name": "Hope Alive Church",
+        "address": "2823 S. Bristol Street",
+        "district": "4",
+        "applicant": "Tommy Cota",
+        "owner": "Karim M Makarehchi and Tahereh Korhani",
+        "status_raw": "",
+        "application_type": "Development Project for a Variance",
+        "description": "The applicant is proposing a change of use to occupy the existing 8,032 sq. ft. commercial office building as a church. As proposed, the project is discretionary and requires approval of a variance to allow a reduction in required onsite parking.",
+        "date_accepted": "10/11/22",
+        "source_link": ""
+      },
+      {
+        "project_name": "McFadden and Fairview",
+        "address": "2745 W. McFadden Avenue",
+        "district": "5",
+        "applicant": "Ilan Golcheh",
+        "owner": "Sej Asset Management & Investment Company, 5G LLC, and Caremark Properties LLC",
+        "status_raw": "",
+        "application_type": "Development Project for a Lot Line Adjustment and a Variance",
+        "description": "The applicant is proposing to 1. Remodel the existing 11,043 square foot, multi-tenant, commercial building; 2. Build a new 3,200 square foot commercial building composed of two 1,600- square-foot units; 3. Demolish the existing 7- Eleven, rebuild, and build a new 3,895 square foot service station canopy; and 4. Demolish the existing 1,150 square foot Jax Donut Shop. As proposed, the project is discretionary and subject to a variance due to a lack of landscape and a lot line adjustment to move the property line.",
+        "date_accepted": "10/04/22",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2023/",
+    "kind": "monthly",
+    "period_label": "october-2023",
+    "local_path": "data/raw/santaana/october-2023.pdf",
+    "title": "Accepted Development Projects, October 2023",
+    "rows": [
+      {
+        "project_name": "Engie – Battery Storage System",
+        "address": "2200 East McFadden Avenue",
+        "district": "2",
+        "applicant": "ENGIE",
+        "owner": "PSA Institutional Partners, L.P.",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to install a battery storage facility within the surplus parking area of an existing public storage facility. The project would also include construction of a Southern California Edison (SCE) substation within the project footprint. The project footprint consists of approximately 38,000 square feet; of which, 19,995 square feet would be covered by structures that would serve the battery storage and SCE substation.",
+        "date_accepted": "10/11/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "MainPlace – Billboard",
+        "address": "2800 North Main Street",
+        "district": "3",
+        "applicant": "GM Outdoor, Inc.",
+        "owner": "Centennial Real Estate, Inc.",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "The applicant is proposing to convert three existing freeway-oriented on-premises digital signs into digital billboards for off-premises commercial advertising. The proposed project will require development project review and approval of a conditional use permit.",
+        "date_accepted": "10/12/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Blessed International Fellowship",
+        "address": "1920 East Seventeenth Street Unit 200",
+        "district": "3",
+        "applicant": "Blessed International Fellowship, Inc.",
+        "owner": "Blessed International Fellowship, Inc.",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing to convert an existing 16,619 sq. ft. office tenant space into a religious facility. The religious facility would include administrative offices that would operate Monday through Friday from 9:00 a.m. to 5:00 p.m. and the worship services would be on Sundays from 8:00 a.m. to 5:00 p.m.",
+        "date_accepted": "10/17/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "Ohana Montessori",
+        "address": "2102 North Tustin Avenue",
+        "district": "3",
+        "applicant": "MTMONT INC.",
+        "owner": "Montreh, LLC.",
+        "status_raw": "",
+        "application_type": "Development Project Review for Minor Exception and Variance",
+        "description": "The applicant is proposing to convert an existing 5,580 sq. ft. office building into a Montessori day care building located within the Arterial Commercial (C5) zoning district. As proposed, the project is discretionary.",
+        "date_accepted": "10/17/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2024/",
+    "kind": "monthly",
+    "period_label": "october-2024",
+    "local_path": "data/raw/santaana/october-2024.pdf",
+    "title": "Accepted Development Projects, October 2024",
+    "rows": [
+      {
+        "project_name": "Serve the People",
+        "address": "1401 N Tustin Ave",
+        "district": "3",
+        "applicant": "Serve the People, Inc. / David Becerra",
+        "owner": "Heba Salem",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "Applicant is requesting approval of a conditional use permit (CUP) in order to operate a medical office operated by government, government-subsidized, not-for- profit, or philanthropic entities at the subject site in accordance with Section 41-313.5(p) of the SAMC.",
+        "date_accepted": "10/15/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Pinnacle Apartments",
+        "address": "3401 S Main St",
+        "district": "4",
+        "applicant": "James Pugh",
+        "owner": "BRE-FMCA, LLC and Vantage Town Home Association",
+        "status_raw": "",
+        "application_type": "Development Project Review for Modifications of Entitlements",
+        "description": "Applicant is requesting approval of modifications to the conditions of approval of the project's entitlements including Amendment Application (AA) No. 1057, Tentative Tract Map (TTM) No. 14664, Conditional Use Permit (CUP) 1992- 14, and Site Plan Review (SPR) No. 1992-3.",
+        "date_accepted": "10/21/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Child Guidance Center, Inc.",
+        "address": "600 W Santa Ana Blvd",
+        "district": "5",
+        "applicant": "Jana Itzen",
+        "owner": "Civic Center LLC c/o Lam, Robinson & Company",
+        "status_raw": "",
+        "application_type": "Development Project Review for Conditional Use Permit",
+        "description": "Applicant is requesting approval of a conditional use permit (CUP) in order to operate a medical office operated by government, government-subsidized, not-for- profit, or philanthropic entities at the subject site in accordance with Section 41-313.5(p) of the SAMC.",
+        "date_accepted": "10/29/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2025/",
+    "kind": "monthly",
+    "period_label": "october-2025",
+    "local_path": "data/raw/santaana/october-2025.pdf",
+    "title": "Accepted Development Projects, October 2025",
+    "rows": [
+      {
+        "project_name": "Keystone Townhouse Development",
+        "address": "3502 W. First Street",
+        "district": "1",
+        "applicant": "Keystone DCS, Inc",
+        "owner": "3502 W 1st Group LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Tentative Tract Map",
+        "description": "Applicant is proposing to construct 14 townhomes on a 0.7-acre site. Each townhome will be three stories and it will include four bedrooms. The townhomes will range in size from 2,336 sq. ft. to 2,445 sq. ft. As part of the proposal, the project will include common open area, new trash enclosure, new parking areas, and new drive aisles. The project’s parking count will include 28 garage spaces, 15 guest spaces, 1 ADA space for a total of 44 parking stalls. The project is discretionary as it will require the approval of a Tentative Tract Map and a Density Bonus Agreement.",
+        "date_accepted": "10/06/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "KB Homes Residential Development",
+        "address": "1901 W. Fourth Street",
+        "district": "5",
+        "applicant": "KB Homes – Coastal Division",
+        "owner": "The David A. Colton Trust",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Vesting Tentative Tract Map and Site Plan Review",
+        "description": "Applicant is proposing a vesting tentative tract map to allow the construction of 188 for-sale town homes. The project will include ten (five-percent) affordable units at the very lot income level. The existing site is 8.16 acres and the proposed development includes 27 three-story buildings that include 188 town homes, 407 parking spaces within enclosed garages and surface parking, and flex/commercial spaces on buildings closest to Fourth Street and Cabrillo Park. As proposed, the project requires review and approval of a vesting tentative tract map and a site plan review to activate the Metro East Mixed Use (MEMU) Overlay by the Planning Commission.",
+        "date_accepted": "10/06/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "New Auto Mall Billboard Modification",
+        "address": "1505 S. Auto Mall Drive",
+        "district": "6",
+        "applicant": "Electra Media, Inc",
+        "owner": "HSA, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit and Operating Agreement",
+        "description": "Applicant is proposing to convert an existing freeway-oriented, on-premise, digital sign into a digital billboard with off- premise commercial advertising. The scope of work includes increasing the size of the LED screen. The project will require administrative approval of the Development Project (DP) application, Planning Commission approval of a conditional use permit (CUP), and City Manager's approval for the Operating Agreement.",
+        "date_accepted": "10/20/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "Verizon – Relocation of Monopole",
+        "address": "1200 N. Tustin Avenue",
+        "district": "3",
+        "applicant": "Verizon Wireless",
+        "owner": "HR Investments, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is proposing to demolish the existing faux eucalyptus monopole located near the center of the parcel north of the existing building and to allow the construction of a new faux eucalyptus monopole on the same site on the northeastern portion of the parcel. The new 60’ monopole will be enclosed by a CMU block wall enclosure 612 sq. ft. in size. The construction of a major wireless facility is discretionary and will require approval of a conditional use permit.",
+        "date_accepted": "10/23/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "AT&T Wireless Facility",
+        "address": "2941 N. Hesperia Way",
+        "district": "3",
+        "applicant": "Eukon Group",
+        "owner": "THCJ, LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is requesting approval of a Conditional Use Permit to allow the construction of a new 60-foot high major wireless communications facility disguised as a mono-eucalyptus.",
+        "date_accepted": "10/30/2025",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2022/",
+    "kind": "monthly",
+    "period_label": "september-2022",
+    "local_path": "data/raw/santaana/september-2022.pdf",
+    "title": "Accepted Development Projects, September 2022",
+    "rows": [
+      {
+        "project_name": "The Pit Development",
+        "address": "320 W. Fourth Street",
+        "district": "5",
+        "applicant": "Jason Venable",
+        "owner": "East End Realty Partners II L P",
+        "status_raw": "",
+        "application_type": "Development Project for a Variance",
+        "description": "The applicant is proposing a new commercial/retail eating establishment consisting of re-purposed shipping containers, to be located on an existing vacant lot approximately 4,080 sq. ft. (.09-acres) in size. The proposed structure will be approximately 6,865 sq. ft. in size and be three-stories in height, with a basement level. The project will require discretionary review and approval from the Planning Commission for variance from certain development standards.",
+        "date_accepted": "09/26/22",
+        "source_link": ""
+      },
+      {
+        "project_name": "Wireless Renewal",
+        "address": "620 W. Warner Avenue",
+        "district": "4",
+        "applicant": "Travis Wells",
+        "owner": "Chief Real Estate Investments LLC",
+        "status_raw": "",
+        "application_type": "Development Project for a Conditional Use Permit",
+        "description": "The applicant is proposing to re-entitle an existing wireless 60-foot tall major wireless communications facility. The project is discretionary, and approval of a conditional use permit (CUP) is required.",
+        "date_accepted": "09/26/22",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2023/",
+    "kind": "monthly",
+    "period_label": "september-2023",
+    "local_path": "data/raw/santaana/september-2023.pdf",
+    "title": "Accepted Development Projects, September 2023",
+    "rows": [
+      {
+        "project_name": "Mater Dei Performing Arts Center",
+        "address": "1202 W. Edinger Avenue",
+        "district": "6",
+        "applicant": "Mater Dei High School",
+        "owner": "Roman Catholic Diocese of Orange",
+        "status_raw": "",
+        "application_type": "Development Project Review",
+        "description": "The applicant is proposing the construction of a new performing arts center (PAC), modernization of the existing Monarch Pavilion (Future Center For Arts and Innovation), and associated site development to include: parking and security upgrades for visitor parking and student parking; possible relocation of fire water main on campus serving the PAC and the parking structure; and new landscape and hardscape for campus enhancements. The PAC is to be two-stories, approximately 34,100 square feet in size, and be 75 feet in height with a seat capacity of approximately 550 seats. The Future Center For Arts and Innovation will be approximately 21,320 square feet.",
+        "date_accepted": "9/06/2023",
+        "source_link": ""
+      },
+      {
+        "project_name": "South Coast Technology Center",
+        "address": "3100 W. Lake Center Drive",
+        "district": "1",
+        "applicant": "C.J. Segerstrom & Sons",
+        "owner": "C.J. Segerstrom & Sons",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Zoning Ordinance Amendment",
+        "description": "The applicant is proposing to amend SD-58, established for Lake Center Office Park, to allow the construction three (3) new corporate/industrial buildings totaling 325,044 sq. ft. Building 1, consisting of 117,230 sq. ft. will be located on the 5.583- acre vacant parcel. Buildings 2 and 3, consisting of 121,645 sq. ft. and 86,169 sq. ft., respectively, will be constructed on the 10.241-acre site which houses the existing office buildings and parking structure. The new buildings will be primarily single-story structures with a limited amount of second floor mezzanine office area located near the",
+        "date_accepted": "9/11/2023",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2024/",
+    "kind": "monthly",
+    "period_label": "september-2024",
+    "local_path": "data/raw/santaana/september-2024.pdf",
+    "title": "Accepted Development Projects, September 2024",
+    "rows": [
+      {
+        "project_name": "Wireless Facility Renewal",
+        "address": "730 S Euclid St",
+        "district": "1",
+        "applicant": "Marina Monihan",
+        "owner": "Saint Barbara Church",
+        "status_raw": "",
+        "application_type": "Development Project for a Conditional Use Permit",
+        "description": "Applicant is proposing to renew the entitlement of an existing 60-foot- high major wireless facility concealed as a bell tower. The project requires approval of a Conditional Use Permit by the Planning Commission.",
+        "date_accepted": "09/06/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Santa Ana Zoo Education Hub",
+        "address": "1801 E Chestnut Ave",
+        "district": "3",
+        "applicant": "Ali Jeevanjee",
+        "owner": "City of Santa Ana, Parks , Recreation and Community Services Agency",
+        "status_raw": "",
+        "application_type": "Development Project",
+        "description": "Applicant is proposing to construct two new 2-story buildings at the Santa Ana Zoo. Building A will comprise of classrooms and event space and will measure approximately 2,607 square feet and Building B will comprise of offices and educational workshops and will measure approximately 5,546 square feet. The project is non-discretionary.",
+        "date_accepted": "09/10/2024",
+        "source_link": ""
+      },
+      {
+        "project_name": "Stake Sports Footlab",
+        "address": "400 W Warner Ave",
+        "district": "4",
+        "applicant": "Andres Cuenca",
+        "owner": "ARE Investment Company, Terminal Freight Handling Company",
+        "status_raw": "",
+        "application_type": "Development Project for a Conditional Use Permit",
+        "description": "Applicant is proposing a change of use of an existing one-story 57,705 square foot warehouse building to accommodate an indoor sports facility with indoor/outdoor activities geared towards soccer, on a site approximately 5.18-acres in size. The facility will comprise of sport courses, events and practices spaces, and will include the construction of a new 525-squre",
+        "date_accepted": "09/16/2024",
+        "source_link": ""
+      }
+    ]
+  },
+  {
+    "source_url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2025/",
+    "kind": "monthly",
+    "period_label": "september-2025",
+    "local_path": "data/raw/santaana/september-2025.pdf",
+    "title": "Accepted Development Projects, September 2025",
+    "rows": [
+      {
+        "project_name": "ATC Wireless Renewal - Monopine",
+        "address": "711 S. Grand Avenue",
+        "district": "6",
+        "applicant": "ATC Sequoia LLC",
+        "owner": "Parkhouse Properties LLC",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is requesting the approval of a conditional use permit (CUP) for an existing wireless facility that was originally approved under CUP No. 2014-07 which expires in May 20, 2024. The existing 52-foot wireless facility is stealthed as a monopine and it is located within a 920 sq. ft ground leased area that contains ground equipment and screened by an 8-foot tall wall. At this time, there are no proposed changes to the existing facility.",
+        "date_accepted": "09/03/2025",
+        "source_link": ""
+      },
+      {
+        "project_name": "John Henry Foundation Expansion",
+        "address": "403 N. Susan Street",
+        "district": "5",
+        "applicant": "John Henry Foundation",
+        "owner": "The John Henry Foundation, a Non-Profit Corporation",
+        "status_raw": "",
+        "application_type": "Development Project Review for a Conditional Use Permit",
+        "description": "Applicant is proposing to demolish a 600 sq. ft. building to accommodate the construction of a new 3,274 sq. ft. building that will contain 6 bedrooms, common area, and kitchen. The use for the proposed new building will continue to be an adult care facility. The project is discretionary and requires the Planning Commission review and approval of a conditional use permit (CUP) to modify the previously approved CUP No. 2014-49 for a residential care facility.",
+        "date_accepted": "09/16/2025",
+        "source_link": ""
+      }
+    ]
+  }
+]
