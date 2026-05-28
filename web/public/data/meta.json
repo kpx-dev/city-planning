@@ -1,34 +1,42 @@
 {
-  "generated_at": "2026-05-27T23:53:32.836513+00:00",
+  "generated_at": "2026-05-28T00:12:02.162259+00:00",
   "cities": [
     {
       "id": 1,
       "name": "Garden Grove",
       "state": "CA",
       "slug": "garden-grove-ca"
+    },
+    {
+      "id": 2,
+      "name": "Santa Ana",
+      "state": "CA",
+      "slug": "santa-ana-ca"
     }
   ],
   "counts": {
-    "total": 856,
-    "geocoded": 703,
+    "total": 1010,
+    "geocoded": 828,
     "by_status": {
-      "in_process": 128,
-      "approved": 352,
+      "in_process": 255,
+      "approved": 378,
       "withdrawn": 3,
-      "unknown": 360,
+      "unknown": 361,
       "completed": 13
     },
     "by_year": {
-      "2025": 106,
-      "2026": 33,
-      "2024": 73,
-      "2022": 38,
+      "2025": 135,
+      "2026": 43,
+      "2024": 95,
+      "2023": 31,
+      "2022": 60,
       "2021": 37,
       "2020": 48,
       "2019": 55,
       "2018": 63,
       "2017": 57,
-      "2016": 47
+      "2016": 47,
+      "0202": 1
     }
   },
   "sources": [
@@ -346,6 +354,420 @@
       "report_period_start": "October 2023",
       "report_period_end": "September 2025",
       "published_date": "September 2025"
+    },
+    {
+      "id": 36,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/major-planning-projects-and-monthly-development-project-reports/",
+      "title": "Major Planning Projects (HTML table)",
+      "report_period_start": null,
+      "report_period_end": null,
+      "published_date": null
+    },
+    {
+      "id": 37,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2023/",
+      "title": "Accepted Development Projects, April 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-04-30",
+      "published_date": "2023-04-30"
+    },
+    {
+      "id": 38,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2024/",
+      "title": "Accepted Development Projects, April 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-04-30",
+      "published_date": "2024-04-30"
+    },
+    {
+      "id": 39,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2025/",
+      "title": "Accepted Development Projects, April 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-04-30",
+      "published_date": "2025-04-30"
+    },
+    {
+      "id": 40,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-april-2026/",
+      "title": "Accepted Development Projects, April 2026",
+      "report_period_start": null,
+      "report_period_end": "2026-04-30",
+      "published_date": "2026-04-30"
+    },
+    {
+      "id": 41,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2022/",
+      "title": "Accepted Development Projects, August 2022",
+      "report_period_start": null,
+      "report_period_end": "2022-08-31",
+      "published_date": "2022-08-31"
+    },
+    {
+      "id": 42,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2023/",
+      "title": "Accepted Development Projects, August 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-08-31",
+      "published_date": "2023-08-31"
+    },
+    {
+      "id": 43,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2024/",
+      "title": "Accepted Development Projects, August 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-08-31",
+      "published_date": "2024-08-31"
+    },
+    {
+      "id": 44,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2022/",
+      "title": "Accepted Development Projects, December 2022",
+      "report_period_start": null,
+      "report_period_end": "2022-12-31",
+      "published_date": "2022-12-31"
+    },
+    {
+      "id": 45,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2023/",
+      "title": "Accepted Development Projects, December 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-12-31",
+      "published_date": "2023-12-31"
+    },
+    {
+      "id": 46,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2024/",
+      "title": "Accepted Development Projects, December 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-12-31",
+      "published_date": "2024-12-31"
+    },
+    {
+      "id": 47,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2025/",
+      "title": "Accepted Development Projects, December 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-12-31",
+      "published_date": "2025-12-31"
+    },
+    {
+      "id": 48,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2023/",
+      "title": "Accepted Development Projects, February 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-02-28",
+      "published_date": "2023-02-28"
+    },
+    {
+      "id": 49,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2024/",
+      "title": "Accepted Development Projects, February 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-02-28",
+      "published_date": "2024-02-28"
+    },
+    {
+      "id": 50,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2025/",
+      "title": "Accepted Development Projects, February 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-02-28",
+      "published_date": "2025-02-28"
+    },
+    {
+      "id": 51,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-february-2026/",
+      "title": "Accepted Development Projects, February 2026",
+      "report_period_start": null,
+      "report_period_end": "2026-02-28",
+      "published_date": "2026-02-28"
+    },
+    {
+      "id": 52,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2023/",
+      "title": "Accepted Development Projects, January 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-01-31",
+      "published_date": "2023-01-31"
+    },
+    {
+      "id": 53,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2024/",
+      "title": "Accepted Development Projects, January 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-01-31",
+      "published_date": "2024-01-31"
+    },
+    {
+      "id": 54,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2025/",
+      "title": "Accepted Development Projects, January 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-01-31",
+      "published_date": "2025-01-31"
+    },
+    {
+      "id": 55,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-january-2026/",
+      "title": "Accepted Development Projects, January 2026",
+      "report_period_start": null,
+      "report_period_end": "2026-01-31",
+      "published_date": "2026-01-31"
+    },
+    {
+      "id": 56,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2022/",
+      "title": "Accepted Development Projects, July 2022",
+      "report_period_start": null,
+      "report_period_end": "2022-07-31",
+      "published_date": "2022-07-31"
+    },
+    {
+      "id": 57,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2023/",
+      "title": "Accepted Development Projects, July 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-07-31",
+      "published_date": "2023-07-31"
+    },
+    {
+      "id": 58,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2024/",
+      "title": "Accepted Development Projects, July 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-07-31",
+      "published_date": "2024-07-31"
+    },
+    {
+      "id": 59,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2025/",
+      "title": "Accepted Development Projects, July 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-07-31",
+      "published_date": "2025-07-31"
+    },
+    {
+      "id": 60,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2022/",
+      "title": "Accepted Development Projects, June 2022",
+      "report_period_start": null,
+      "report_period_end": "2022-06-30",
+      "published_date": "2022-06-30"
+    },
+    {
+      "id": 61,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2023/",
+      "title": "Accepted Development Projects, June 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-06-30",
+      "published_date": "2023-06-30"
+    },
+    {
+      "id": 62,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2024/",
+      "title": "Accepted Development Projects, June 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-06-30",
+      "published_date": "2024-06-30"
+    },
+    {
+      "id": 63,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2025/",
+      "title": "Accepted Development Projects, June 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-06-30",
+      "published_date": "2025-06-30"
+    },
+    {
+      "id": 64,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2023/",
+      "title": "Accepted Development Projects, March 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-03-31",
+      "published_date": "2023-03-31"
+    },
+    {
+      "id": 65,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2024/",
+      "title": "Accepted Development Projects, March 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-03-31",
+      "published_date": "2024-03-31"
+    },
+    {
+      "id": 66,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2025/",
+      "title": "Accepted Development Projects, March 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-03-31",
+      "published_date": "2025-03-31"
+    },
+    {
+      "id": 67,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-march-2026/",
+      "title": "Accepted Development Projects, March 2026",
+      "report_period_start": null,
+      "report_period_end": "2026-03-31",
+      "published_date": "2026-03-31"
+    },
+    {
+      "id": 68,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-may-2023/",
+      "title": "Accepted Development Projects, May 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-05-31",
+      "published_date": "2023-05-31"
+    },
+    {
+      "id": 69,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-may-2025/",
+      "title": "Accepted Development Projects, May 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-05-31",
+      "published_date": "2025-05-31"
+    },
+    {
+      "id": 70,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2022/",
+      "title": "Accepted Development Projects, November 2022",
+      "report_period_start": null,
+      "report_period_end": "2022-11-30",
+      "published_date": "2022-11-30"
+    },
+    {
+      "id": 71,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2023/",
+      "title": "Accepted Development Projects, November 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-11-30",
+      "published_date": "2023-11-30"
+    },
+    {
+      "id": 72,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2024/",
+      "title": "Accepted Development Projects, November 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-11-30",
+      "published_date": "2024-11-30"
+    },
+    {
+      "id": 73,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2025/",
+      "title": "Accepted Development Projects, November 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-11-30",
+      "published_date": "2025-11-30"
+    },
+    {
+      "id": 74,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2022/",
+      "title": "Accepted Development Projects, October 2022",
+      "report_period_start": null,
+      "report_period_end": "2022-10-31",
+      "published_date": "2022-10-31"
+    },
+    {
+      "id": 75,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2023/",
+      "title": "Accepted Development Projects, October 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-10-31",
+      "published_date": "2023-10-31"
+    },
+    {
+      "id": 76,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2024/",
+      "title": "Accepted Development Projects, October 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-10-31",
+      "published_date": "2024-10-31"
+    },
+    {
+      "id": 77,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2025/",
+      "title": "Accepted Development Projects, October 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-10-31",
+      "published_date": "2025-10-31"
+    },
+    {
+      "id": 78,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2022/",
+      "title": "Accepted Development Projects, September 2022",
+      "report_period_start": null,
+      "report_period_end": "2022-09-30",
+      "published_date": "2022-09-30"
+    },
+    {
+      "id": 79,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2023/",
+      "title": "Accepted Development Projects, September 2023",
+      "report_period_start": null,
+      "report_period_end": "2023-09-30",
+      "published_date": "2023-09-30"
+    },
+    {
+      "id": 80,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2024/",
+      "title": "Accepted Development Projects, September 2024",
+      "report_period_start": null,
+      "report_period_end": "2024-09-30",
+      "published_date": "2024-09-30"
+    },
+    {
+      "id": 81,
+      "city_id": 2,
+      "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2025/",
+      "title": "Accepted Development Projects, September 2025",
+      "report_period_start": null,
+      "report_period_end": "2025-09-30",
+      "published_date": "2025-09-30"
     }
   ]
 }

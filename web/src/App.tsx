@@ -6,7 +6,11 @@ import { ListView } from "./components/ListView";
 import { loadMeta, loadProjects } from "./data";
 import type { CityRef, Meta, Project } from "./types";
 
-const DEFAULT_CENTER: [number, number] = [-117.9414, 33.7739];
+const CITY_VIEW: Record<string, { center: [number, number]; zoom: number }> = {
+  "garden-grove-ca": { center: [-117.9414, 33.7739], zoom: 11.5 },
+  "santa-ana-ca": { center: [-117.8678, 33.7455], zoom: 12.5 },
+};
+const FALLBACK_VIEW = CITY_VIEW["garden-grove-ca"];
 
 export default function App() {
   const [projects, setProjects] = useState<Project[]>([]);
@@ -98,7 +102,12 @@ export default function App() {
       {!loading && !error && (
         <>
           {view === "map" ? (
-            <MapView projects={filtered} defaultCenter={DEFAULT_CENTER} />
+            <MapView
+              key={city}
+              projects={filtered}
+              defaultCenter={(CITY_VIEW[city] || FALLBACK_VIEW).center}
+              defaultZoom={(CITY_VIEW[city] || FALLBACK_VIEW).zoom}
+            />
           ) : (
             <ListView projects={filtered} />
           )}
@@ -106,7 +115,7 @@ export default function App() {
       )}
 
       <footer className="border-t border-border bg-panel/50 px-4 py-2 text-xs text-muted">
-        Map data © OpenStreetMap contributors · Project data: City of Garden Grove DPU public records ·
+        Map data © OpenStreetMap contributors · Project data from City of Garden Grove DPU and City of Santa Ana public records ·
         {meta && (
           <span> {meta.counts.total.toLocaleString()} projects, {meta.counts.geocoded.toLocaleString()} geocoded · updated {new Date(meta.generated_at).toLocaleDateString()}</span>
         )}
