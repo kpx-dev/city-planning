@@ -1,0 +1,472 @@
+[
+  {
+    "kind": "major",
+    "url": "https://www.santa-ana.org/major-planning-projects-and-monthly-development-project-reports/",
+    "pdf_url": null,
+    "local_path": "data/raw/santaana/major-projects.html",
+    "sha256": "7ade8c6de3243fd846fec13188abec7ecb290b99cbbf33ebb179ee49119b111e",
+    "size_bytes": 134880,
+    "title": "Major Planning Projects (HTML table)",
+    "period_label": null
+  },
+  {
+    "kind": "major",
+    "url": "https://www.santa-ana.org/major-planning-projects-and-monthly-development-project-reports/",
+    "pdf_url": null,
+    "local_path": "data/raw/santaana/major-projects.html",
+    "sha256": "cf73d8cc6f56ac883f8046f45ee48980bf0af27fed4e2048e93648ee02f645ad",
+    "size_bytes": 134880,
+    "title": "Major Planning Projects (HTML table)",
+    "period_label": null
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/05/April-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/april-2023.pdf",
+    "sha256": "4ad720da90b7e897653dc91cf5de93448ff4ae539b0de5b08019f5eb611c944f",
+    "size_bytes": 420205,
+    "title": "Accepted Development Projects, April 2023",
+    "period_label": "april-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/05/April-2024-DP-List.pdf",
+    "local_path": "data/raw/santaana/april-2024.pdf",
+    "sha256": "b020d32f9cdb721060d49d1a4581a233dc90aafe5fb1c1a71bbfdc3b8beb5701",
+    "size_bytes": 437093,
+    "title": "Accepted Development Projects, April 2024",
+    "period_label": "april-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-april-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/07/April-2025.pdf",
+    "local_path": "data/raw/santaana/april-2025.pdf",
+    "sha256": "437a42b93e9649f6d3e6413f7ab7e4c21ab90a002c7d29015dad0fe57563eef1",
+    "size_bytes": 85671,
+    "title": "Accepted Development Projects, April 2025",
+    "period_label": "april-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-april-2026/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2026/05/3601fefd-april-2026-_-jcg-5.1.2026.pdf",
+    "local_path": "data/raw/santaana/april-2026.pdf",
+    "sha256": "bae844b6ddb61d34ee886ca264d0622e461b6430c11d7fb6526f8dd873267f5c",
+    "size_bytes": 522474,
+    "title": "Accepted Development Projects, April 2026",
+    "period_label": "april-2026"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2022/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2022/09/August-2022-DP-List.pdf",
+    "local_path": "data/raw/santaana/august-2022.pdf",
+    "sha256": "55a660db73bbec55cc1d5f957e963fbb892eae829829a80dad14b5b792434b27",
+    "size_bytes": 128062,
+    "title": "Accepted Development Projects, August 2022",
+    "period_label": "august-2022"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/09/August-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/august-2023.pdf",
+    "sha256": "54595a89be9ad3ca58bc2240ce72b1bb4228f9499767a22cb480fed496b306a8",
+    "size_bytes": 86566,
+    "title": "Accepted Development Projects, August 2023",
+    "period_label": "august-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-august-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/09/August-2024.pdf",
+    "local_path": "data/raw/santaana/august-2024.pdf",
+    "sha256": "31bd15efdfd9cf9a8f43179e7d5e0d4093dc6070998df3f04aa6b72538c54fa5",
+    "size_bytes": 426191,
+    "title": "Accepted Development Projects, August 2024",
+    "period_label": "august-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2022/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/01/December-2022-DP-List.pdf",
+    "local_path": "data/raw/santaana/december-2022.pdf",
+    "sha256": "16cc9df1719a454f79838fb9a0a306f6e4a7bfcc8dcfd15f481a88f9b9dfe198",
+    "size_bytes": 85706,
+    "title": "Accepted Development Projects, December 2022",
+    "period_label": "december-2022"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/12/December-2023-DP-List.docx.pdf",
+    "local_path": "data/raw/santaana/december-2023.pdf",
+    "sha256": "e491f097d33eae6da7a1f3d249b33af14009c15882d3ded794227ff952fc2272",
+    "size_bytes": 422570,
+    "title": "Accepted Development Projects, December 2023",
+    "period_label": "december-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/01/December-2024-DP-List-.pdf",
+    "local_path": "data/raw/santaana/december-2024.pdf",
+    "sha256": "5351df4fc0a5f1d99cb87b8882b7f319966842e90ee02c937b455746251970e6",
+    "size_bytes": 433736,
+    "title": "Accepted Development Projects, December 2024",
+    "period_label": "december-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-december-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/12/7908bcd2-december-2025.pdf",
+    "local_path": "data/raw/santaana/december-2025.pdf",
+    "sha256": "6a64542b939b1eef8ff7799d440136a307ff65a4845215cf9ca488440599a342",
+    "size_bytes": 110490,
+    "title": "Accepted Development Projects, December 2025",
+    "period_label": "december-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/03/February-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/february-2023.pdf",
+    "sha256": "f063e26dc4c248a9c7f3bea6532d562e5a82bfd0578e8124d27ce506b52039c2",
+    "size_bytes": 97771,
+    "title": "Accepted Development Projects, February 2023",
+    "period_label": "february-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/2024/03/February-2024-DP-List.pdf",
+    "local_path": "data/raw/santaana/february-2024.pdf",
+    "sha256": "791d050ce58b16ad7401ba5608eeb17d36ee0e485cb1ea3c4d8f410275a4a4ba",
+    "size_bytes": 433283,
+    "title": "Accepted Development Projects, February 2024",
+    "period_label": "february-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-february-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/03/February-2025.pdf",
+    "local_path": "data/raw/santaana/february-2025.pdf",
+    "sha256": "af7011e87de35dd2d53f4a3e9c3af51c5257aea44a9818f1e52a631527296470",
+    "size_bytes": 434443,
+    "title": "Accepted Development Projects, February 2025",
+    "period_label": "february-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-february-2026/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2026/03/d44b7acf-february-2026.pdf",
+    "local_path": "data/raw/santaana/february-2026.pdf",
+    "sha256": "8c44ba77859083f9d2a57c6b364da75ac5c6de67ef324092356b94e0ae59598d",
+    "size_bytes": 202648,
+    "title": "Accepted Development Projects, February 2026",
+    "period_label": "february-2026"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/02/January-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/january-2023.pdf",
+    "sha256": "6977fa84bb888c6d4b92aaa10c983de379ce3f9d36ed5dee6591a3dd2b6235de",
+    "size_bytes": 82960,
+    "title": "Accepted Development Projects, January 2023",
+    "period_label": "january-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2024/01/January-2024-DP-List.pdf",
+    "local_path": "data/raw/santaana/january-2024.pdf",
+    "sha256": "e9b82ed897399e32605cf039f85e09623c08e6d4000fd75b9e4f8bddeff942d5",
+    "size_bytes": 426740,
+    "title": "Accepted Development Projects, January 2024",
+    "period_label": "january-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-january-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/02/January-2025-DP-List.pdf",
+    "local_path": "data/raw/santaana/january-2025.pdf",
+    "sha256": "7d51bbda1ab10db28d8dd2dd69657869444dc85840ff3a72f7f9083cf5abd99f",
+    "size_bytes": 435434,
+    "title": "Accepted Development Projects, January 2025",
+    "period_label": "january-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-january-2026/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2026/02/bc97e9c6-january-2026.pdf",
+    "local_path": "data/raw/santaana/january-2026.pdf",
+    "sha256": "06133b28ba5ad4397ea56203da00a4293bab49b433ff06fd80d514f13b854137",
+    "size_bytes": 92205,
+    "title": "Accepted Development Projects, January 2026",
+    "period_label": "january-2026"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2022/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2022/08/July-2022-DP-List.pdf",
+    "local_path": "data/raw/santaana/july-2022.pdf",
+    "sha256": "f172a4b2d32876dac3a9350a6c76349ecff4ad70254e347ada0067ae185791b4",
+    "size_bytes": 426283,
+    "title": "Accepted Development Projects, July 2022",
+    "period_label": "july-2022"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/08/July-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/july-2023.pdf",
+    "sha256": "67f49053f4f8ffb4f032d1c5070d4b3eea8a35bc730cf7a027071f85ea059107",
+    "size_bytes": 89593,
+    "title": "Accepted Development Projects, July 2023",
+    "period_label": "july-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/08/July-2024-DP-List.docx.pdf",
+    "local_path": "data/raw/santaana/july-2024.pdf",
+    "sha256": "9420eaa30bf4f4be1341598d42c0af2da8a0c5ef0256efc8f7604471afbe5ee4",
+    "size_bytes": 434075,
+    "title": "Accepted Development Projects, July 2024",
+    "period_label": "july-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-july-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/08/July-2025.pdf",
+    "local_path": "data/raw/santaana/july-2025.pdf",
+    "sha256": "869a2329c3808ec0386cc33e1ba2a0cad408673b43edd2c519d5065ebe91c883",
+    "size_bytes": 85134,
+    "title": "Accepted Development Projects, July 2025",
+    "period_label": "july-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2022/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2022/07/June-2022-DP-List.pdf",
+    "local_path": "data/raw/santaana/june-2022.pdf",
+    "sha256": "41b4bf9063922321dc3dbaa8f8f160bcc89585f023304a11ebba45c9659612a3",
+    "size_bytes": 92170,
+    "title": "Accepted Development Projects, June 2022",
+    "period_label": "june-2022"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/07/June-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/june-2023.pdf",
+    "sha256": "650509c405541d3e0559f4a0dc340c49e0deea98cabcc54c55769e5144b4339c",
+    "size_bytes": 85137,
+    "title": "Accepted Development Projects, June 2023",
+    "period_label": "june-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/07/June-2024-DP-List.pdf",
+    "local_path": "data/raw/santaana/june-2024.pdf",
+    "sha256": "c58c5d2b46e5d90c2abdf2aff2bcbaa0a229a2b7bca4be16eb0393e4f169c58f",
+    "size_bytes": 423411,
+    "title": "Accepted Development Projects, June 2024",
+    "period_label": "june-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-june-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/07/June-2025.pdf",
+    "local_path": "data/raw/santaana/june-2025.pdf",
+    "sha256": "e9605bea518bb21f8342a31a6d1d555fb0803d2c35db0e77652d7322e19abfa0",
+    "size_bytes": 127887,
+    "title": "Accepted Development Projects, June 2025",
+    "period_label": "june-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/04/March-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/march-2023.pdf",
+    "sha256": "eb73c64b9cb1bac9dcb170c7d644829632a178614a6dca7f893769ee750207e8",
+    "size_bytes": 84607,
+    "title": "Accepted Development Projects, March 2023",
+    "period_label": "march-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/04/March-2024-DP-List.docx.pdf",
+    "local_path": "data/raw/santaana/march-2024.pdf",
+    "sha256": "fa6b2059de8c3cc055f8afbfa2c6c38e89ad4d3cd6ca56b345d23de95ff899ba",
+    "size_bytes": 439081,
+    "title": "Accepted Development Projects, March 2024",
+    "period_label": "march-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-march-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/04/March-2025.pdf",
+    "local_path": "data/raw/santaana/march-2025.pdf",
+    "sha256": "20d6c41a16b98c40e36b707e423b1a7bd7cb7f9b9c907c2c6363a29de14d4710",
+    "size_bytes": 89161,
+    "title": "Accepted Development Projects, March 2025",
+    "period_label": "march-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-of-march-2026/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2026/04/fe767347-march-2026-_-jcg-4.8.2026.pdf",
+    "local_path": "data/raw/santaana/march-2026.pdf",
+    "sha256": "ea47b020a08d8d390acac31266307795f1987d8ebef86799991857982c594403",
+    "size_bytes": 107616,
+    "title": "Accepted Development Projects, March 2026",
+    "period_label": "march-2026"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-may-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/06/May-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/may-2023.pdf",
+    "sha256": "2a4eb438d8b8858f155fbfebc3d4d8255470ee578b955f0a8a7969a48a9e8a87",
+    "size_bytes": 78034,
+    "title": "Accepted Development Projects, May 2023",
+    "period_label": "may-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-may-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/07/May-2025.pdf",
+    "local_path": "data/raw/santaana/may-2025.pdf",
+    "sha256": "5a86b06a96b86c62d26f5df4fb4ca173624d6fed07a5adab26efc765a985731d",
+    "size_bytes": 113200,
+    "title": "Accepted Development Projects, May 2025",
+    "period_label": "may-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2022/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2022/12/November-2022-DP-List.pdf",
+    "local_path": "data/raw/santaana/november-2022.pdf",
+    "sha256": "1b4e19a3e4190267c72540abe671cdceeedc75a2a29db6a420be0f4cde627ceb",
+    "size_bytes": 90785,
+    "title": "Accepted Development Projects, November 2022",
+    "period_label": "november-2022"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/12/November-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/november-2023.pdf",
+    "sha256": "fb816d939886f4384ef58f7b6869b7d4c23a4bd4d66258c6d291d0e8d85e3d2e",
+    "size_bytes": 432452,
+    "title": "Accepted Development Projects, November 2023",
+    "period_label": "november-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/12/November-2024-DP-List.pdf",
+    "local_path": "data/raw/santaana/november-2024.pdf",
+    "sha256": "d72841a9e706b6621fe0ac8fbe3ea0d2deb9efa4ab89649ea5ac2305e86bbd66",
+    "size_bytes": 492046,
+    "title": "Accepted Development Projects, November 2024",
+    "period_label": "november-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-november-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/12/4127dfaf-november-2025.pdf",
+    "local_path": "data/raw/santaana/november-2025.pdf",
+    "sha256": "6fbb087b261a5852203552dfd2a4ef054c0986f003b5a4906293d45d47bf1549",
+    "size_bytes": 114631,
+    "title": "Accepted Development Projects, November 2025",
+    "period_label": "november-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2022/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2022/11/October-2022-DP-List.pdf",
+    "local_path": "data/raw/santaana/october-2022.pdf",
+    "sha256": "fe7d2ec7df1b9714ce18f3a31b1a8bbdf39d36e82e11c2466c82074bf0ec2900",
+    "size_bytes": 83621,
+    "title": "Accepted Development Projects, October 2022",
+    "period_label": "october-2022"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/11/October-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/october-2023.pdf",
+    "sha256": "10e77c54913c0fffb96cf61c3b4a48b47e4f890a962cdfaef56ea99b0a6f3e31",
+    "size_bytes": 75009,
+    "title": "Accepted Development Projects, October 2023",
+    "period_label": "october-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/11/October-2024-DP-List.pdf",
+    "local_path": "data/raw/santaana/october-2024.pdf",
+    "sha256": "28153e7316f1e76de43620017378351c99c673ca89664b8bdc0cb2e0bb628bc7",
+    "size_bytes": 431042,
+    "title": "Accepted Development Projects, October 2024",
+    "period_label": "october-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-october-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/11/b3ece53d-october-2025.pdf",
+    "local_path": "data/raw/santaana/october-2025.pdf",
+    "sha256": "c2df0f61fd8fac2cfd18494a9a80d6c50ea6da3669767e2c2401fa83199393ac",
+    "size_bytes": 93847,
+    "title": "Accepted Development Projects, October 2025",
+    "period_label": "october-2025"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2022/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2022/10/September-2022-DP-List.pdf",
+    "local_path": "data/raw/santaana/september-2022.pdf",
+    "sha256": "9558c87e92a591396a551ffd34faa3c8f38a9839704212b705958ec603e9e659",
+    "size_bytes": 188770,
+    "title": "Accepted Development Projects, September 2022",
+    "period_label": "september-2022"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2023/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/uploads/2023/10/September-2023-DP-List.pdf",
+    "local_path": "data/raw/santaana/september-2023.pdf",
+    "sha256": "5d014ff481ae253e9a64d57f9381ad3b60af8fd230be7a84745020cac19a5283",
+    "size_bytes": 90677,
+    "title": "Accepted Development Projects, September 2023",
+    "period_label": "september-2023"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2024/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2024/10/September-2024-.pdf",
+    "local_path": "data/raw/santaana/september-2024.pdf",
+    "sha256": "5cd469612fbc2d567bed6f8f485cd072ecc01f8f18c89e8c63dbfaf89efa2921",
+    "size_bytes": 433608,
+    "title": "Accepted Development Projects, September 2024",
+    "period_label": "september-2024"
+  },
+  {
+    "kind": "monthly",
+    "url": "https://www.santa-ana.org/documents/monthly-accepted-development-projects-for-september-2025/",
+    "pdf_url": "https://storage.googleapis.com/proudcity/santaanaca/2025/10/September-2025.pdf",
+    "local_path": "data/raw/santaana/september-2025.pdf",
+    "sha256": "9ee93b9a29c8db92855c2144573b049dedffd27458590387aa62ee958058896d",
+    "size_bytes": 83779,
+    "title": "Accepted Development Projects, September 2025",
+    "period_label": "september-2025"
+  }
+]
